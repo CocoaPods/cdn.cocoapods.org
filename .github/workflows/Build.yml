@@ -1,0 +1,44 @@
+name: Build
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Checkout Specs
+      uses: actions/checkout@v2
+      with:
+        repository: CocoaPods/Specs
+        path: _specs
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: 2.6
+    - uses: actions/cache@v2
+      with:
+        path: _specs/vendor/bundle
+        key: ${{ runner.os }}-gems-${{ hashFiles('_specs/Gemfile.lock') }}
+        restore-keys: |
+          ${{ runner.os }}-gems-
+    - name: Build indices
+      working-directory: _specs
+      run: |
+        bundle config path vendor/bundle
+        bundle install --jobs=3
+        bash Scripts/netlify_deploy.sh
+    - name: Deploy to Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./_specs/_site
+        cname: cdn2.cocoapods.org
+        force_orphan: true
+
+on:
+  push:
+    branches:
+    - main  
+  schedule:
+    - cron:  '* * * * *'
+      branches:
+      - main
