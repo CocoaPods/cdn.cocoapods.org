@@ -42,8 +42,6 @@ jobs:
 
 on:
   push:
-    branches:
-    - main  
   schedule:
     - cron:  '* * * * *' # max frequency specified because the actual frequency is determined by GH Actions rate limit  
       branches:
