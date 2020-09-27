@@ -27,6 +27,7 @@ jobs:
         bundle install --jobs=3
         bash Scripts/netlify_deploy.sh
     - name: Deploy to Pages
+      if: github.event_name == 'schedule'
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
