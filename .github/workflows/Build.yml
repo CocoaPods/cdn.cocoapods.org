@@ -20,10 +20,12 @@ jobs:
         key: ${{ runner.os }}-gems-${{ hashFiles('Gemfile.lock') }}
         restore-keys: |
           ${{ runner.os }}-gems-
-    - name: Build indices
+    - name: Bundler
       run: |
         bundle config path vendor/bundle
-        bundle install --jobs=3
+        bundle install --jobs=4
+    - name: Build indices
+      run: |
         Scripts/build.sh
     - name: Deploy to Pages
       if: github.event_name == 'schedule'
