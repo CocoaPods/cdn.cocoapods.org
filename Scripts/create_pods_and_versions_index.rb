@@ -3,6 +3,8 @@
 
 require 'cocoapods'
 
+STDERR.puts 'CDN Indexer v2'
+
 Dir.chdir('_specs')
 site_dir = '_site'
 
