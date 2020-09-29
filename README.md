@@ -67,7 +67,7 @@ Repeat this process for all the dependencies of your dependencies, and that is e
 
 This repo is responsible for generating `all_pods.txt` and the sharded indices. That happens in [`Scripts/create_pods_and_versions_index.rb`](./Scripts/create_pods_and_versions_index.rb).
 
-These files get pushed to the [GitHub Pages branch of this repo](./tree/gh-pages).
+These files get pushed to the [GitHub Pages branch of this repo](https://github.com/CocoaPods/cdn.cocoapods.org/tree/gh-pages).
 
 We then use CloudFlare CDN to redirect incoming URLs either to this repo's GitHub Pages static site, or to a [jsDelivr](https://www.jsdelivr.com) backed copy of the CocoaPods Specs repo based on this re-direct rule:
 
