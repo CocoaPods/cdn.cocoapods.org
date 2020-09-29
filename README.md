@@ -4,13 +4,11 @@ Following the increasing cost and several outages on the Netlify service, it was
 
 The new build process uses GH Actions to create the static indices and runs roughly every 7 minutes. The result is deployed into a GitHub Pages environment.
 
-The repo does not contain any redirect code as it's not possible to do so in GH Pages. The `/Specs/*` redirect is handled by the CDN Proxy (Cloudflare).
-
 The `CNAME` is currently set to `cdn2.cocoapods.org` for experimenting. This needs to change for production.
 
-### How the CDN works
+## How the CDN works
 
-Our CDN works by taking the [CocoaPods Specs](https://github.com/CocoaPods/Specs/) repo and creating static files which tells the CocoaPods cli what pods and versions exist currently.
+Our CDN works by taking the [CocoaPods Specs](https://github.com/CocoaPods/Specs/) repo and creating static files which tells the CocoaPods CLI what pods and versions exist currently.
 
 The CocoaPods CLI will use the information from files like:
 
@@ -41,7 +39,7 @@ There are a set of known [prefixes for all Podspec paths](https://blog.cocoapods
 
 E,g, for the Podspec name:`AppNetworkManager` -> `222d4d61b20ded1118cedbb42c07ce5f`. So, it lives at `2/2/2`.
 
-the CocoaPods cli can get a list of versions for all pods which live at `2/2/2` from these know indices:
+the CocoaPods CLI can get a list of versions for all pods which live at `2/2/2` from these know indices:
 
 ### `https://cdn.cocoapods.org/all_pods_versions_2_2_2.txt`:
 
@@ -57,7 +55,7 @@ IDLib/0.2.0/0.3.0
 ...
 ```
 
-Which means to get a podspec json, to ensure the cli can resolve all your dependencies, then the cli will make HTTP requests like these:
+Which means to get a podspec JSON, to ensure the CLI can resolve all your dependencies, then the CLI will make HTTP requests like these:
 
 - `https://cdn.cocoapods.org/Specs/2/2/2/AppNetworkManager/1.0.0/AppNetworkManager.podspec.json`
 - `https://cdn.cocoapods.org/Specs/2/2/2/ContactsWrapper/0.9/ContactsWrapper.podspec.json`
@@ -65,15 +63,17 @@ Which means to get a podspec json, to ensure the cli can resolve all your depend
 
 Repeat this process for all the dependencies of your dependencies, and that is enough to be able to download just the Podspecs specs needed for your whole dependency tree. Meaning you don't need to do the full clone of the Specs repo.
 
-### How the CDN is implemented
+## How the CDN is implemented
 
-This repo is responsible for generating `all_pods.txt` and the sharded indices. That happens in [`./Scripts/create_pods_and_versions.rb`](./Scripts/create_pods_and_versions.rb) - though in truth a chunk of that code lives inside the CocoaPods gem.
+This repo is responsible for generating `all_pods.txt` and the sharded indices. That happens in [`./Scripts/create_pods_and_versions.rb`](./Scripts/create_pods_and_versions.rb).
 
-These files get pushed to the [GitHub pages branch of this repo](https://github.com/CocoaPods/cdn.cocoapods.org/tree/gh-pages).
+These files get pushed to the [GitHub Pages branch of this repo](https://github.com/CocoaPods/cdn.cocoapods.org/tree/gh-pages).
 
-We then use DNS to re-direct incoming URLs either to this repo's GitHub Pages static site, or to a [jsDelivr](https://www.jsdelivr.com) backed copy of the CocoaPods Specs repo based on this re-direct rule:
+We then use CloudFlare CDN to redirect incoming URLs either to this repo's GitHub Pages static site, or to a [jsDelivr](https://www.jsdelivr.com) backed copy of the CocoaPods Specs repo based on this re-direct rule:
 
 ```
 cdn.cocoapods.org/Specs/* ->
 https://cdn.jsdelivr.net/cocoa/Specs/$1
 ```
+
+This repo does not contain any redirect code as it's not possible to do so in GitHub Pages. 
