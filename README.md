@@ -4,8 +4,6 @@ Following the increasing cost and several outages on the Netlify service, it was
 
 The new build process uses GH Actions to create the static indices and runs roughly every 7 minutes. The result is deployed into a GitHub Pages environment.
 
-The `CNAME` is currently set to `cdn2.cocoapods.org` for experimenting. This needs to change for production.
-
 ## How the CDN works
 
 Our CDN works by taking the [CocoaPods Specs](https://github.com/CocoaPods/Specs/) repo and creating static files which tells the CocoaPods CLI what pods and versions exist currently.
