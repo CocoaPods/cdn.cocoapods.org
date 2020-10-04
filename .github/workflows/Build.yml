@@ -33,7 +33,7 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./_specs/_site
-        cname: cdn2.cocoapods.org
+        cname: cdn.cocoapods.org
         force_orphan: true
     - uses: actions/upload-artifact@v2
       if: github.event_name != 'schedule'
