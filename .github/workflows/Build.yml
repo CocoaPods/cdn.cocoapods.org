@@ -35,6 +35,12 @@ jobs:
         publish_dir: ./_specs/_site
         cname: cdn.cocoapods.org
         force_orphan: true
+    - name: Tell Honeybadger.io
+      if: github.event_name == 'schedule'
+      env: 
+        HONEYBADGER_TOKEN: ${{ secrets.HONEYBADGER_TOKEN }}
+      run: |
+        curl https://api.honeybadger.io/v1/check_in/${HONEYBADGER_TOKEN}
     - uses: actions/upload-artifact@v2
       if: github.event_name != 'schedule'
       with:
