@@ -28,11 +28,11 @@ jobs:
       run: |
         Scripts/build.sh
     - name: Deploy to Pages
-      if: github.event_name == 'schedule'
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./_specs/_site
+        publish_dir: ./_specs
+        publish_branch: test-deploy
         cname: cdn.cocoapods.org
         force_orphan: true
     - name: Tell Honeybadger.io
@@ -41,11 +41,6 @@ jobs:
         HONEYBADGER_TOKEN: ${{ secrets.HONEYBADGER_TOKEN }}
       run: |
         curl https://api.honeybadger.io/v1/check_in/${HONEYBADGER_TOKEN}
-    - uses: actions/upload-artifact@v2
-      if: github.event_name != 'schedule'
-      with:
-        name: site
-        path: ./_specs/_site/*
 
 on:
   push:
