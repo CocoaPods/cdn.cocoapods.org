@@ -7,11 +7,8 @@ jobs:
       - name: Set build image var
         run: echo "ImageVersion=$ImageVersion" >> $GITHUB_ENV
       - uses: actions/checkout@v2
-      - name: Checkout Specs
-        uses: actions/checkout@v2
-        with:
-          repository: CocoaPods/Specs
-          path: _specs
+      - name: Checkout Specs (sparse)
+        run: Scripts/checkout_specs.sh
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
