@@ -4,48 +4,50 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - name: Checkout Specs
-      uses: actions/checkout@v2
-      with:
-        repository: CocoaPods/Specs
-        path: _specs
-    - name: Set up Ruby
-      uses: ruby/setup-ruby@v1
-      with:
-        ruby-version: 2.6
-    - uses: actions/cache@v2
-      with:
-        path: vendor/bundle
-        key: ${{ runner.os }}-gems-${{ hashFiles('Gemfile.lock') }}
-        restore-keys: |
-          ${{ runner.os }}-gems-
-    - name: Bundler
-      run: |
-        bundle config path vendor/bundle
-        bundle install --jobs=4
-    - name: Build indices
-      run: |
-        Scripts/build.sh
-    - name: Deploy to Pages
-      if: github.event_name == 'schedule'
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./_specs/_site
-        cname: cdn.cocoapods.org
-        force_orphan: true
-    - name: Tell Honeybadger.io
-      if: github.event_name == 'schedule'
-      env: 
-        HONEYBADGER_TOKEN: ${{ secrets.HONEYBADGER_TOKEN }}
-      run: |
-        curl https://api.honeybadger.io/v1/check_in/${HONEYBADGER_TOKEN}
-    - uses: actions/upload-artifact@v2
-      if: github.event_name != 'schedule'
-      with:
-        name: site
-        path: ./_specs/_site/*
+      - name: Set build image var
+        run: echo "ImageVersion=$ImageVersion" >> $GITHUB_ENV
+      - uses: actions/checkout@v2
+      - name: Checkout Specs
+        uses: actions/checkout@v2
+        with:
+          repository: CocoaPods/Specs
+          path: _specs
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.6
+      - uses: actions/cache@v2
+        with:
+          path: vendor/bundle
+          key: gems@v1-${{ runner.os }}-${{ env.ImageVersion }}-${{ hashFiles('Gemfile.lock') }}
+          restore-keys: |
+            gems@v1-${{ runner.os }}-${{ env.ImageVersion }}-
+      - name: Bundler
+        run: |
+          bundle config path vendor/bundle
+          bundle install --jobs=4
+      - name: Build indices
+        run: |
+          Scripts/build.sh
+      - name: Deploy to Pages
+        if: github.event_name == 'schedule'
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_specs/_site
+          cname: cdn.cocoapods.org
+          force_orphan: true
+      - name: Tell Honeybadger.io
+        if: github.event_name == 'schedule'
+        env: 
+          HONEYBADGER_TOKEN: ${{ secrets.HONEYBADGER_TOKEN }}
+        run: |
+          curl https://api.honeybadger.io/v1/check_in/${HONEYBADGER_TOKEN}
+      - uses: actions/upload-artifact@v2
+        if: github.event_name != 'schedule'
+        with:
+          name: site
+          path: ./_specs/_site/*
 
 on:
   push:
