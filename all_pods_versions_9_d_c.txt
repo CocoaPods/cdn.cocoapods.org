@@ -1,0 +1,12 @@
+CRModel/0.0.1
+Flat-Alert/1.0.0
+IMReactiveTextField/0.1.0/0.2.0/0.3.0/0.4.0/0.6.0/0.7.0/0.8.0
+InAppNotificationFramework/1.0.10/1.0.11/1.0.2/1.0.20/1.0.22/1.0.24/1.0.26/1.0.28/1.0.30/1.0.8/1.0.9
+JDCloudSDKElite/0.0.11/0.0.12/0.0.4/0.0.5/0.0.7/0.0.8
+LMAttributedString/0.0.1/0.0.2/0.0.3/0.0.4
+MVVMDataSource/0.0.1/0.0.2/0.0.3/0.0.4/0.0.5/0.0.6/0.0.7/0.0.8/0.0.9/1.0.0/1.0.2/1.1.0/1.2.0
+PocketEth/0.0.3
+RHImagePickerController/1.7.9.1
+UUButton/1.0/1.1
+YumiMediationAdapterAdmob/5.0.1
+ZKSwift/1.3.0/1.3.1/1.3.2

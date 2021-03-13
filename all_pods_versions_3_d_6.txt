@@ -1,0 +1,10 @@
+BeaconBase_API/2.7.9
+HorizontalStickyHeaderLayout/0.2.0/0.3.0/0.3.1/0.3.2/0.3.3/0.4.0/0.5.0/0.5.1/0.5.2
+NewPopMenu/1.0.0/1.0.1/1.0.2/1.1.0/1.1.1/1.1.2/2.1.1/2.1.2
+SafetyCollection/1.0/1.1
+ShopJoySDK-v2/2.0/2.0.1/2.0.2/2.0.3
+SpectrumKit/0.9.0/1.0.0/1.1.0/1.2.0
+SwiftRegularExpression/0.2.0/0.2.2/0.2.3
+TSNPerf/1.0/1.1
+ffmpeg-kit-ios-full-gpl/4.4/4.4.LTS
+ydqSwiftTest/0.1.0

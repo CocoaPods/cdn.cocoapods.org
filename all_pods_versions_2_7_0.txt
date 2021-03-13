@@ -1,0 +1,11 @@
+BRAlertView/0.0.1
+DRSAlertDialog/0.0.1
+JS_Log/1.0.0/1.0.1
+MBDocCapture/0.1.1/0.1.2/0.1.3/0.1.4
+MMMSwitch/0.1.0/0.1.1
+NanoStore/2.0.1/2.1.0/2.1.1/2.1.2/2.1.3/2.1.4/2.1.5/2.1.8/2.2.4/2.5.1/2.5.2/2.5.3/2.5.7/2.6.4/2.7.7
+SinpleKit/0.2.0/0.2.1/0.2.2/0.2.3/0.2.4/0.2.5/0.2.6/0.2.7/0.2.8
+WCNetworkManager/1.0.4.2
+WZJCommonBase/1.0.0/1.0.1
+ZEDObserversCenter/0.0.2
+ZProgressHUD/0.0.1/0.0.2/0.0.3/0.0.4/0.0.5

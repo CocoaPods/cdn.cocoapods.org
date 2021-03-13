@@ -1,0 +1,13 @@
+CollectionViewSectionBackgroundLayout/0.1.2/0.1.4/0.1.5/0.1.6
+GeodeticUTMConverter/1.0.4/1.0.5/1.0.7
+HHHorizontalPagingView/1.0.0/1.1.0/1.2.0/1.2.1/1.2.2/1.2.3/1.2.5/1.2.6/1.2.7/1.2.8
+JSegue/1.0.0
+KnobControl123XX/1.0.0/1.1.0/1.1.1
+MLCompressImage/1.0.0/1.0.1/1.0.2
+MerculetSDKBitcode/0.0.1.1/0.0.1.3/0.0.1.7/1.0.32.1/1.1.0/1.1.2/1.1.3
+STPhotoMap/0.1.4/0.1.5
+TZExporterTool/0.1.3
+TanLT1Extensions/0.1.0
+VKNetworkHandle/1.0
+ZYMaskView/1.0.0
+eModocker/0.1.0/0.1.1/0.1.3/0.1.4

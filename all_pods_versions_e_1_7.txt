@@ -1,0 +1,14 @@
+BBView_PickerView/0.0.1
+BwqBaseClass/1.0.0
+CYTCategory/0.0.1/0.0.2
+GoogleBooksApiClient/0.0.1/0.0.2/0.0.3/0.0.4
+LBYPageDetection/1.0.0
+NotifyMeButton/0.1.0/0.1.1/0.1.2
+PBImageView/0.1.0/1.0.0/1.0.2/1.0.3/1.0.4
+PingppAlipaySDKNoUTDID/15.4.1/15.5.0/15.5.5/15.5.9/15.6.4/15.6.8/15.7.4/15.7.9/15.8.0
+RCModel/0.0.1
+RxEventHub/0.1.0/0.1.1/3.0
+StaticTableViewController/0.1/0.2/1.0.0/1.0.1/1.1.0/1.2.0
+UBSDK/0.2.22
+UIViewCategoryForAutoLayout/0.0.1/0.1.0/0.1.1
+YBHandyList/1.0/1.0.1/1.0.2/1.0.3/1.0.4/1.0.5

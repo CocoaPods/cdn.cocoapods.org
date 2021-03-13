@@ -1,0 +1,15 @@
+AppCommonTool/0.0.2/0.0.3
+CloudSight/1.0/1.0.1/1.0.3/1.0.4
+DDYCamera/1.0.0/1.1.1/1.1.2/1.3.0
+DFGetVerifyCodeButton/0.0.1/0.0.2/1.0.0/1.0.1/1.0.2/1.0.3
+HLD_Test/1.0.0
+IBFramework/0.0.1
+JFPopupKit/0.1.0
+LLPieViewTest/0.1.0
+MMPopupView-Optimize/1.7.3/1.7.4
+MMShareSheet/0.0.1/0.0.2/0.0.3
+SmilePass/1.0.0
+TDShopSDK_lite/0.0.1/0.0.2
+Unicore/0.0.1/0.0.2/0.0.3/0.0.4/0.0.5/1.0.0/1.0.1/1.0.2/1.0.3/1.0.4/1.0.6/2.0.0/2.5.0/3.0.2/3.3.0
+WActionSheet/0.0.3
+YCCategoryModule/0.0.1

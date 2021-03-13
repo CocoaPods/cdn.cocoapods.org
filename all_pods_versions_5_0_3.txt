@@ -1,0 +1,17 @@
+AASSVC/0.0.1
+AMLocalized/0.3
+CZPhotoPickerController/1.0/1.1/1.1.2/1.1.3/1.2/1.2.1/1.2.2/1.2.3/1.2.4/1.2.5/2.0.0/2.0.2/2.0.3
+CoTalkWebRTC/0.1.0/0.1.1/0.1.2
+EasyCalls/1.0.0/1.0.1/1.0.2/1.0.3/1.1.0/1.1.1/1.2.0/1.2.1/1.2.2
+ExperimentalDynamicSDK/0.1.0/0.1.1/0.1.3
+JRPCProxy/1.0.0
+LHWatermark/0.0.1/0.0.2/0.0.3
+PutioAPI/0.1.1/0.1.2/0.10.0/0.11.1/0.2.0/0.2.1/0.3.0/0.3.2/0.3.3/0.4.0/0.5.0/0.6.0/0.6.1/0.7.0/0.7.1/0.8.0/0.9.0
+RJFirebase/0.3.0
+SWFSemanticVersion/0.1.0/0.2.0/0.3.1/0.4/0.4.1/0.4.2/0.4.3/0.5.0
+Test90/0.0.1
+UUVPagesController/0.0.3/0.0.6
+UXMTokenField/0.0.1
+UniversalDetector/1.0.0/1.1.0/1.2.0/1.3.0/1.3.1/1.3.2/1.3.3/1.4.0
+com.awareframework.ios.sensor.pedometer/0.1.0/0.2.0/0.2.1/0.2.2/0.4.0/0.4.1
+iosutilities/1.0.1/1.0.2

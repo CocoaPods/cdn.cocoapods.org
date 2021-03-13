@@ -1,0 +1,13 @@
+AudioUnitPlayer/1.0.1/1.0.2
+BQLibrary/0.0.1/0.0.2/0.0.3/0.0.4/0.0.5
+Backtrace-Crashpad/0.0.1
+DemirciySwiftUI/0.1.0
+EasySocial/1.0.0
+Gate360Player/0.1.0
+Ipify/1.0.0/1.1.0/2.0.0/2.1.0
+MFUI/2.2.0/2.2.0-RC3/2.2.0-RC4/2.3.0/2.4.0
+ModalTransitionController/3.1.0
+RateView/1.1/1.2
+STFollowLayout/1.0.0
+SYAdLaunchView/1.0.0/1.0.1
+UAFilterableResultsController/1.0.0/1.0.1/1.0.2/1.0.3/1.0.4

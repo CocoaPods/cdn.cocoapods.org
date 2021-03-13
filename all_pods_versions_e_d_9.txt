@@ -1,0 +1,15 @@
+AFJSONRPCClient_DASH/2.1.4
+ArrQManager/1.0.0
+BATableView/1.0.0
+Bit/1.0.0/1.0.1/1.1.0
+CLTableWithFooterViewController/0.2.0
+D3Notice/1.0.1/1.1.1/2.0.0
+DummySDK/0.1.0/0.1.1
+EzHTMLAS/0.0.2/0.0.3/0.0.4/0.0.5/0.0.6/0.0.7/0.0.8/0.0.9/0.1.0/0.1.1/0.1.2
+FHImagePickSheet/0.0.1
+MDCustomSegue/0.1.0/0.1.1
+N60OtaUpdate/1.0.0/1.0.1/1.0.2/1.0.3/1.0.4/1.0.5/1.0.6/1.0.7/1.0.8/1.0.9/1.1.0/1.1.1/1.1.2/1.1.3/1.1.4/1.1.5/1.1.6/1.1.7/1.1.8/1.1.9/1.2.0/1.2.1/1.2.2/1.2.3
+NBLShowPicture/0.1.0/0.1.1/0.2.0/0.3.0/0.3.1/0.3.2/0.3.3/0.3.4
+QNUploadService/0.1.0
+SwiftyMediator/0.0.2/0.0.3/0.0.4/0.1.0/0.1.1/0.2.0
+iConsoleSearch/1.0.99

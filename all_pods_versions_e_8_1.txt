@@ -1,0 +1,16 @@
+AVScanner/0.1.0/0.2.0/0.3.0/0.3.1/0.4.0/0.4.1/0.5.0/1.0.0/1.0.1
+Codex/0.0.1
+DraugiemSDK/0.1.0/0.1.1/0.1.2
+FDJBasicUI/0.1.1
+HelloBlinkingLabel/0.1.0
+JDCloudSDKAms/0.0.11/0.0.12/0.0.2/0.0.3/0.0.4/0.0.5/0.0.7/0.0.8
+KLSDateLabel/0.0.1/0.0.2
+LHFSimpleTools/0.0.1/0.0.2/0.0.3/0.0.4
+Lwt_ProgressView/1.0.2
+QMonthElement/0.1.0
+TOScanViewController/1.0.0/1.0.1/1.0.2
+UINib-Qqc/1.0.0
+UMMobClick/0.1.1/1.1.1
+YZImagePicker/0.1.0/0.1.1
+YandexMoneySDKiOS/1.0.0/1.0.1/1.0.2/1.0.3/1.0.4
+rachit/0.1.2/0.1.3/0.1.4/0.1.5

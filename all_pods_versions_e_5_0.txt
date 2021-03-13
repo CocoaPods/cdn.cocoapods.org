@@ -1,0 +1,16 @@
+AeroGearPush/2.0.0
+IMGPickerManager/0.1.0/0.1.1/0.1.2
+LWKitTest/1.0.0/1.0.2/1.0.3/1.0.4
+LYRCountDownLatch/0.9.0
+LocationManagerSwift/1.0/1.0.1/1.0.2/1.0.3/1.0.4/1.1/1.1.1/1.1.2/1.1.3
+MCDownloader/1.0.0
+MLAudioPlayer/0.0.1/1.0/1.0.1/1.0.2/1.0.3/1.0.4/1.0.5/1.1.0/1.1.1/1.2.0/1.2.1
+MuslimData/1.0.0/1.0.0-beta.2/1.0.0-beta.3/1.0.0-beta.4/1.0.0-beta.5/1.0.0-beta.6/1.0.0-beta.7/1.0.1
+OpenInGoogleMaps/0.1.0
+PortalIosMidwareMidware/0.0.1/0.0.2/0.0.3
+RTCP2PEngine/1.0.0/1.0.1/1.0.2/1.0.3/1.0.4/1.0.5/1.0.6/1.0.7
+SHWRecommend/0.5.1/0.5.2/0.5.3
+SQLele/0.0.1
+SonyCameraRemoteAPI/0.1.0
+TBAKitTesting/1.0.0/1.0.1/1.0.2/1.1.0
+ZFSCalendar/2.8.1

@@ -1,0 +1,14 @@
+AMRAdapterInneractive/7.2.3.3/7.3.0.0/7.6.0.1/7.6.3.0/7.7.3.0/7.7.3.1/7.7.3.2/7.8.1.0
+AsyncSwiftTemp/2.0.6
+DBMigrationTestKit/0.0.1
+FFmpeg/2.2/2.8.3
+GKAuthorizationTool/1.0.0
+HPMemoryUtils/0.0.1
+IDTech/1.1.130
+ImageExtension/0.2.0/0.3.0
+KKSActionSheet/0.1.0/0.1.1/0.1.2/0.1.3/0.1.4/0.1.5/1.0/1.0.1/1.0.2
+PopcornNotify/1.0.1/1.0.2
+ReadabilityKit/0.4.0/0.4.1/0.4.2/0.4.5/0.4.6/0.4.8/0.5.1/0.5.2/0.5.4/0.6.0/0.6.1/0.7.0/0.7.1/0.7.3/0.7.4
+SloppySwiper/0.1.0/0.1.1/0.1.2/0.1.3/0.2.0/0.3.0/0.4.0/0.4.1/0.5/0.6
+Trilean/1.0.0
+UIView+AORefreshFont/1.0.0/1.0.1/1.0.2/1.0.3

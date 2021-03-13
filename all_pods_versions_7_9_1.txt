@@ -1,0 +1,16 @@
+AnalysysAgentNoIDFA/4.1.0/4.1.1/4.1.1.1/4.1.1.2
+CFZLPhotoBrowser/0.0.1/0.0.2/0.0.3/0.0.5/0.0.6
+Colorizer/0.1/0.1.1/0.1.2
+ColorsView/1.0.0
+DryFace/0.0.1/0.0.2
+FZValidationTextField/0.1.0
+GSJSONParser/0.0.2/0.0.3/0.0.4/0.0.5/0.0.6/0.0.7/0.0.8/0.0.9/0.1.1/0.2.0/0.2.1/0.2.2/0.2.3/0.2.4
+HWSegmentedControl/1.0.0
+JPSThumbnailAnnotation/0.0.1/0.0.2/1.0.0
+LibOpenWeather/1.0.0
+MiCore/0.1.0
+OpenCV2-contrib/3.2.0/3.2.0.1
+RBDemo/0.0.1
+SVWabView/3.0.0
+TOCLiveness/0.0.2/0.0.3
+WHLog/1.0.0/1.0.1/1.0.2

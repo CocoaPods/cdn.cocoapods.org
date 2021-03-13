@@ -1,0 +1,17 @@
+Cedric/0.2.0/0.2.2
+Cerfing/2.0.0/2.0.1/2.0.2/2.0.3/2.0.4
+CustomOperation/1.0.1/1.0.2/1.0.4/1.1.0
+FirebaseFirestoreSwift/0.2/0.3.0/0.4.0/7.0.0-beta/7.1.0-beta/7.2.0-beta/7.3.0-beta/7.4.0-beta/7.5.0-beta/7.6.0-beta/7.7.0-beta/7.8.0-beta
+FlatDropdown/0.0.1/0.0.2/0.0.3
+IBMPIBeacon/2.0.1/2.0.2
+JHPopupQueue/0.0.1beta
+JudyPlusButtonTabBar/0.0.1
+LJMapCoordinateCorrection/1.0.0
+NKAlert/0.0.3/0.0.4/0.0.5
+OverlayController/0.0.1/0.0.2/1.0.0/1.0.1
+PPManagers/0.0.1/0.0.2/0.0.5/0.0.6/0.0.7/0.0.8/0.0.9/0.1.0/0.1.1
+RMPZoomTransitionAnimator/1.0.0/1.0.1/1.0.2/1.0.3
+ScrollTagsView/0.0.1/0.0.2/0.0.3/0.0.4/0.0.5/0.0.6/0.0.7/0.0.8/0.0.9/0.1.0
+TrueSDK/0.1.0/0.1.1/0.1.2/0.1.3/0.1.4/0.1.5/0.1.6
+UToolsLee/0.0.1/0.0.2/0.0.3/0.0.4/0.0.5/0.0.6
+mySDK/0.0.1

@@ -1,0 +1,17 @@
+AMOpensslTool/0.1.1
+BBBBB/0.0.1
+BBKit/0.0.2
+CCDJoystick/0.1.1/0.1.2/0.1.3/0.1.4
+FintezaSDK/0.0.5/0.0.6/1.0.0/1.0.1
+HCAppleMapService/1.0.0
+JSONDecoder-Keypath/0.1.0
+MCategorys/0.0.1/0.0.2/0.0.3/0.0.5
+MFCore/2.2.0/2.2.0-RC1/2.2.0-RC2/2.2.0-RC3/2.2.0-RC4/2.3.0/2.4.0
+MKBOSXCloseButton/0.0.1
+ModalTransition/0.1.0
+PolygonioSwift/0.6.0/0.8.0/0.9.0/1.0.0/1.0.1/1.0.2/1.0.3
+SwiftAsyncOp/0.1.0/0.1.1/0.1.2
+WLToastView/0.0.1/0.0.2
+WebexBroadcastExtensionKit/2.0.0/2.1.0/2.1.0.1/2.3.0/2.4.0/2.5.0/2.6.0/2.7.0
+WolfNIO/0.1.0/0.2.0/0.2.1/0.2.2
+coacopodTest/1.0.0

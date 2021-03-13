@@ -1,0 +1,15 @@
+AMRAdapterInmobi-Zynga/7.2.7.1
+DecodeFailable/1.0
+FinTivWallet/0.1.0/0.1.1
+FlowLayout/1.0.0
+JKPopupView/0.0.5/0.0.6/0.0.7/0.0.8/0.0.9/0.1.0/0.1.1/1.1.1
+JNPhotosViewer/1.0.0/1.0.1/1.0.3/1.0.4
+KRBeaconFinder/1.5.1/1.5.2/1.5.3
+KonboardingKit/0.1.0/0.1.1
+LockDirectionScrollView/0.1.0
+NYCarousel/0.1.0
+PTRManualLayout/0.7.0/0.8.0
+SJMeterStyleSliderView/0.1.2/1.0/1.0.1/1.1
+SwiftyFontIcon/0.1.0/0.1.1
+YLRegex/1.0.0/1.0.1/1.0.2
+xctester/0.1.4/0.1.5/0.2.0/0.3.0

@@ -1,0 +1,13 @@
+AppgainRich/1.3.3/1.3.4/1.3.5/1.3.6
+GCProgressLine/0.0.1/1.0.0
+Gesture/1.0.0
+GoldPrice/0.1.3/0.1.4/0.1.5
+JMDropMenu/0.1/0.1.1
+JSONMarshaller/0.2.0
+PYGradientCycle/1.1
+ReactiveShare/0.1.2
+SCResponderChainPass/1.0.0/1.1.0
+SCYandexDisk/0.0.1/0.0.2/0.0.3/0.0.5/0.0.6/0.0.7
+ShonemeMineModule/1.0.2/1.0.3/1.0.4/1.0.5/1.0.6/1.0.7/1.0.8
+TMWVKBrokeNewsSDK/0.0.1/0.0.2/0.0.3
+TouchJSON/1.0/1.1

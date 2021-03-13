@@ -1,0 +1,16 @@
+AMRAdapterAppsamurai/0.9.14.0/1.0.0.0/1.0.0.1/1.0.1.0/1.0.2.0/1.1.0.0/1.3.3.0/1.4.0.1/1.4.1.0
+AWSPredictionsPlugin/0.10.0/0.11.0/0.9.0/1.0.0/1.0.0-rc.1/1.0.1/1.0.2/1.0.3/1.0.4/1.0.4-unstable.0/1.0.4-unstable.3/1.0.4-unstable.4/1.0.4-unstable.5/1.0.4-unstable.6/1.0.4-unstable.7/1.0.5/1.0.5-unstable.0/1.0.5-unstable.10/1.0.5-unstable.12/1.0.5-unstable.13/1.0.5-unstable.2/1.0.5-unstable.3/1.0.5-unstable.4/1.0.5-unstable.5/1.0.5-unstable.6/1.0.5-unstable.7/1.0.5-unstable.8/1.0.5-unstable.9/1.0.6/1.0.7-unstable.0/1.0.7-unstable.1/1.0.7-unstable.2/1.0.7-unstable.3/1.0.7-unstable.4/1.0.7-unstable.7/1.0.7-unstable.8/1.1.0/1.1.1/1.1.1-unstable.0/1.1.1-unstable.1/1.1.1-unstable.2/1.1.2/1.1.2-unstable.0/1.1.2-unstable.1/1.1.2-unstable.2/1.1.2-unstable.3/1.1.2-unstable.4/1.1.2-unstable.5/1.1.3-unstable.0/1.1.3-unstable.1/1.1.3-unstable.2/1.1.3-unstable.3/1.1.3-unstable.4/1.1.3-unstable.5/1.2.0/1.2.1-unstable.0/1.2.1-unstable.1/1.2.1-unstable.2/1.3.0/1.3.1/1.3.1-unstable.0/1.3.1-unstable.1/1.3.2/1.3.2-unstable.0/1.3.2-unstable.1/1.3.2-unstable.2/1.3.2-unstable.3/1.3.2-unstable.4/1.3.2-unstable.5/1.3.2-unstable.6/1.3.2-unstable.7/1.3.2-unstable.8/1.3.2-unstable.9/1.3.3-unstable.0/1.3.3-unstable.1/1.3.3-unstable.2/1.3.3-unstable.3/1.3.3-unstable.4/1.3.3-unstable.5/1.3.3-unstable.6/1.3.3-unstable.7/1.4.0/1.4.1/1.4.1-unstable.0/1.4.1-unstable.1/1.4.1-unstable.2/1.4.1-unstable.3/1.4.2/1.4.2-unstable.0/1.4.2-unstable.1/1.4.3/1.4.3-unstable.0/1.4.3-unstable.1/1.4.4/1.4.4-unstable.0/1.4.4-unstable.1/1.4.5-unstable.0/1.4.5-unstable.1/1.4.5-unstable.10/1.4.5-unstable.11/1.4.5-unstable.12/1.4.5-unstable.2/1.4.5-unstable.3/1.4.5-unstable.4/1.4.5-unstable.5/1.4.5-unstable.6/1.4.5-unstable.7/1.4.5-unstable.8/1.4.5-unstable.9/1.5.0/1.5.1/1.5.1-unstable.0/1.5.1-unstable.1/1.5.1-unstable.10/1.5.1-unstable.11/1.5.1-unstable.2/1.5.1-unstable.3/1.5.1-unstable.4/1.5.1-unstable.5/1.5.1-unstable.6/1.5.1-unstable.7/1.5.1-unstable.8/1.5.1-unstable.9/1.5.2/1.5.2-unstable.0/1.5.2-unstable.1/1.5.2-unstable.10/1.5.2-unstable.11/1.5.2-unstable.12/1.5.2-unstable.2/1.5.2-unstable.3/1.5.2-unstable.4/1.5.2-unstable.5/1.5.2-unstable.6/1.5.2-unstable.7/1.5.2-unstable.8/1.5.2-unstable.9/1.5.3/1.5.3-unstable.0/1.5.3-unstable.1/1.5.3-unstable.2/1.5.3-unstable.3/1.5.3-unstable.4/1.5.3-unstable.5/1.5.3-unstable.6/1.5.4/1.5.4-unstable.0/1.5.4-unstable.1/1.5.4-unstable.2/1.5.4-unstable.3/1.5.5/1.5.5-unstable.0/1.5.5-unstable.1/1.5.5-unstable.2/1.5.6-unstable.0/1.5.6-unstable.1/1.5.6-unstable.2/1.5.6-unstable.3/1.5.6-unstable.4/1.6.0/1.6.1/1.6.1-unstable.1/1.6.1-unstable.2/1.6.1-unstable.3/1.6.2-unstable.0/1.6.2-unstable.1/1.6.2-unstable.2/1.6.2-unstable.3
+BoostcampEventEmitter/0.1.0
+DeptLayout/0.1.0/0.2.0/0.3.0/0.4.0
+IpsmapSDK/1.0.11/1.0.7/1.1.0/1.1.7/1.1.8/1.2.0/1.2.1/1.2.2/1.2.4/1.2.6/1.2.7/1.2.8/1.2.9/1.3.0/1.3.2/1.3.3/1.3.4/1.3.5/1.3.6/1.3.7/1.3.8/1.3.9
+JWWaveView/0.1.0/0.2.0/0.2.1/0.2.2/0.2.4/0.3.0/0.3.1
+JustFlyPresentation/1.0
+PureCloudApiSdk/0.0.1
+SZLaunchAdPage/1.1.0
+SensibolSDKFrameworkCopy/1.1
+StitchTwilioService/4.0.0/4.0.0-beta-1/4.0.1/4.0.2/4.0.3/4.0.4/4.0.5/4.1.0/4.1.0-beta.1/4.1.1/4.1.2/5.0.0/5.0.0-alpha.0/5.0.0-alpha.1/5.0.0-beta.2/5.0.0-beta.3/5.1.0/6.0.0/6.0.0-beta.0/6.0.0-beta.1/6.0.1/6.1.0/6.3.0/6.4.0
+Tally/0.5.0/0.5.1/1.0.1/1.0.2
+UPLogs/1.0
+WWTBaiduConfig/0.0.1/0.0.2/0.0.3
+YHJSelectView/0.1.0
+YJCameraManager/1.0.0/1.0.1

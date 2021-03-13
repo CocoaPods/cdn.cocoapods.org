@@ -1,0 +1,15 @@
+BGLDUtilsKit/0.1.0
+Cardano/0.0.1
+FIADatePickerDialog/1.0.0
+HSBCommonLibrary/0.0.1/0.0.2
+ImojiSDK_MagicNarwhal/2.3.4
+JLoadingHUD/0.0.1
+LDLE8/0.1.0
+LSiOSLocation/1.1.0/1.1.1/1.2.0/1.2.1
+MAREXT/0.0.3/0.0.5/0.0.7/0.1.0/0.1.1/0.1.4/0.1.6
+MovingArcsMenu/0.1.0
+MsdSDK/1.0
+SDK_Vdopia_PREROLL/2.5.0/2.5.0.1
+UICollectionView-ARDynamicHeightLayoutCell_Bell/1.0.1/1.0.2/1.0.3/1.0.4
+UUClassRoomSDK_IOS/0.3.4/0.3.6/0.4.1
+iOS-Framework/1.0.0/2.0.0

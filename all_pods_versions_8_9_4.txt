@@ -1,0 +1,8 @@
+CircleButton/0.0.2/1.0.0/1.1.0/1.1.1/1.1.2
+FilesProvider/0.18.0/0.18.1/0.19.0/0.20.0/0.20.1/0.21.0/0.22.0/0.23.0/0.24.0/0.25.1/0.26.0
+JamesShare/0.0.1
+LYSPicturePreView/0.0.1
+NKLocation/1.0.0
+UICurrencyTextField/1.0.0/1.0.1
+YFTestPro/0.1.0
+ZMRatingBarView/0.1.0/0.1.1

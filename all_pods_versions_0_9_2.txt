@@ -1,0 +1,13 @@
+AAShimmerView/1.0.1/1.1/1.2.1
+BrokerWithdrawDepositModule/1.0.0/2.0.0/2.0.1/2.1.0
+CafeiCSDK/1.1.4
+DeviceCareNewSDK/0.1.3/0.1.4
+HYMicroAnimation/1.0.1/1.0.2
+LYSpecificViews/0.1.0
+MobFoxSDK_MoPubAdapterPR/3.6.1PR
+PressengerApnsSDK/0.9.0
+RTDebugKit/0.1.0/0.1.1/0.1.2
+ShaHashesWrapper/1.0.0
+ZLPageView/1.0/2.0/2.1/2.1.1/2.1.2/2.1.3/2.2/2.2.1/2.2.2/2.3
+universalPushWay/0.1.0
+yaleheng-common/0.0.1

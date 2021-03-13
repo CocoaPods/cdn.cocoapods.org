@@ -1,0 +1,12 @@
+APProgressHUD/1.0.0/1.0.1/1.1.0/1.1.1/1.1.2
+BadgifySwift/1.0.1
+CSCoverageChart/0.1.0/0.1.1/0.1.2/0.1.3
+HZSWeakTimerTarget/1.0.0/2.0.0
+KTScannerView/1.0
+QDImageView/0.0.1
+RXKeyValueColumn/1.0.0
+RxViewController/0.1.0/0.2.0/0.3.0/0.4.0/0.4.1/1.0.0/2.0.0
+SalesforceMobileSDK-iOS/3.1.0/3.1.1/3.1.2/3.1.3/3.2.0/3.2.1/3.2.2/3.3.0/3.3.1/4.0.0
+VLPin/0.1.0/0.2.0
+XCUITestsAdditions/1.0/1.1
+floatbot_ai/0.0.1/0.0.2

@@ -1,0 +1,13 @@
+CKCoreDataKit/0.5.2
+CNTeldPaySDK/1.0.0/1.0.1/1.0.2/1.0.3/1.0.4
+DFLivelinessAuth/1.0/1.0.1/1.0.2/1.0.3/1.0.4/1.0.5/1.0.6/1.0.7/1.0.9
+DZNSegmentedControl/1.0/1.0.1/1.0.2/1.0.3/1.0.4/1.0.5/1.1/1.1.1/1.1.2/1.1.3/1.2/1.2.1/1.2.2/1.3/1.3.1/1.3.2/1.3.3
+EFNetwork/1.0.0/1.0.1
+HYBNSDateExtension/0.0.1
+LDLogger/1.0.0
+LjSwiftTools/0.0.1
+PYTExampleFramework/0.0.1
+ReactiveNSXMLParser/0.1.0/0.1.1
+YWColorPicker/1.0/1.1/1.1.1/1.1.2/1.2/1.3/1.4
+testForCocoapod/1.0.0
+testMLib/1.0.0

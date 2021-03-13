@@ -1,0 +1,11 @@
+AECoreDataUI/1.2.1/2.0.0/2.0.1/3.0.0/4.0.0/4.1.0/4.1.1/4.1.2
+AMap3DMapDynamic-NO-IDFA/6.4.0/6.5.0/6.6.0/6.7.0/6.8.0/6.8.1
+AiTeacherCore/0.0.2
+BLWebSocketsServer/0.1.0
+FXToolKit/1.0.0
+JRPopupView/0.1.0/0.10.0/0.2.0/0.5.0/0.5.1/0.5.2/0.5.3/0.6.0/0.6.1/0.7.0/0.8.0/0.9.0/0.9.1/1.0.0/1.1.0/1.2.0/1.3.0/1.4.0/1.4.1/1.4.2/1.4.3
+LBJNetWork/0.1.3
+PaymeWalletNet/1.0.0/1.1.0
+VacateMoudle/1.0.4/1.0.5/1.0.6/1.0.7/1.0.8/1.0.9/1.1.0
+VideoReproducerBrightcove/6.0.1
+uploadCocoaPods/1.0.1/1.0.2

@@ -1,0 +1,15 @@
+DemoLibTest/0.0.1
+JCAVURLPlayer/1.0.0/1.0.1/1.0.2/1.0.3
+JeffSamplePod/3.0.0/4.0.1
+KLCollectionViewFlowLayout/1.0.0
+LPNavPageVC/1.0.0/1.1.0/1.1.1/1.2.0
+MLFacebookUtilsV4/2.0.1/2.0.10/2.0.10.1/2.0.2/2.0.3/2.0.5/2.0.6/2.0.7/2.0.8/2.0.9
+MMAutoSlideScrollView/0.0.1
+MUCore/0.1.0
+MyAttributedStringBuilder/0.0.1/1.0.1
+ReactiveMantle/0.1.0
+RevMob-Goonbee/8.1.0
+SDiflyMSC/1.144
+SKPhotoPicker/0.0.1/0.0.2/1.0.0/1.0.2/1.0.4
+SwiftDictionaryCoding/1.0.0
+videosdk/3.0.0

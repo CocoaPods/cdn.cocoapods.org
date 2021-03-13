@@ -1,0 +1,16 @@
+AppicAdjustSdk/4.17.1/4.23.0
+CICropPicker/1.0.0
+CPKongTableView/0.1.0
+CalendarDemo/0.0.1
+DEStoreKitManager/0.1
+DSSlider/0.0.1/0.0.2/0.0.3/0.0.4
+DurationReporter/0.2.0/0.2.1
+EFSignalBariOS/0.1.0/0.1.1/0.2.0/0.2.1
+HYLabel/1.0.0/1.0.1/1.0.2
+JMBannerView/0.1.1/0.1.5/0.1.6
+MRDatabaseContentChecker/0.2.0/0.3.0/0.4.0
+StuartDeliverySDK/0.0.3/1.0.0
+UniversalPicker/0.1.0/0.2.0/0.2.1/0.2.2/2.0.0/2.1.0
+WebARSDK/1.0.0
+WilddogGeo/0.1.0
+kameleoonClient/2.0.0

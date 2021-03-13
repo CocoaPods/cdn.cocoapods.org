@@ -1,0 +1,17 @@
+AppStateCoordinator/0.0.4/0.0.5/0.0.6
+BSCycleImagesView/0.0.1/0.0.2
+EFAnimationMenu/0.0.8
+GJChart/2.0
+JSSwipeableCell/1.0.0/1.0.1/1.0.2/1.1.0
+Keyhi/1.0/1.1/1.2
+MDYoutubeSourceParserKit/1.0
+MinuteAnimations/0.0.1/0.0.2
+PPLogTestFramework/1.0.0/1.0.1
+PQActionSheet/0.1.0/0.1.1/0.1.2
+SSViews/0.1.0/0.1.1/0.1.2/0.1.3/0.1.4/0.1.5/0.1.6/0.1.7
+StepIndicator/1.0.0/1.0.1/1.0.2/1.0.3/1.0.4/1.0.5/1.0.6/1.0.6.1/1.0.7/1.0.7.1/1.0.8
+SwiftyCast/1.0.0/1.0.1/1.0.2
+SwinjectStoryboard/1.0.0/1.0.0-beta.1/1.0.0-beta.2/1.0.0-beta.3/1.1.0/1.1.1/1.1.2/1.2.0/1.2.1/2.0.0-beta.1/2.0.1/2.0.2/2.1.0/2.2.0
+TICEModels/48.1.1
+TheramaF/1.0.0/1.0.1/1.0.2/1.0.3
+ZJEmoticon/0.1.0

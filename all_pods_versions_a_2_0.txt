@@ -1,0 +1,16 @@
+APLSearchBar/0.0.1
+DDRavenLogger/0.1.0
+HWExtension/1.0.0/1.0.1/1.0.2/1.0.3/1.0.4/1.0.5
+ILABReverseVideoExporter/0.1.0/0.1.1/0.1.2
+IOSDevice/0.1.0/0.1.1
+KPCJumpBarControl/0.1.1/0.2.1/0.3.0/0.4.0
+KSLayout/1.0.0/1.0.1/1.0.2/1.0.3
+NKGridTemplate/0.1.0/0.1.0.1
+Partnerize/1.0.0/1.1.0/1.1.1/1.2.0
+PlivoSDK/0.3.0/0.5/0.5.1
+RSThemeKit/1.0.0/1.0.1/1.0.2/1.0.3/1.0.4
+ReactiveTask/0.16.0
+RxMoya-HandyJSON/0.1.0
+SignalProtocolObjC/1.0.0/1.1.0
+TTSocialModule/0.5
+XLGCategory/1.0.0/1.0.1/1.0.2/1.0.3/1.0.4/1.0.5/1.0.6/1.0.7/1.0.8/1.0.9/1.1.0

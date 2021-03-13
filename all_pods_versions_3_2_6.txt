@@ -1,0 +1,14 @@
+Animatronic/0.1.0
+Curve25519Kit/2.1.0
+ELTextInputForm/0.0.1/0.0.2/0.0.4
+INTUAnimationEngine/1.0.0/1.1.0/1.2.0/1.3.0/1.3.1/1.3.2/1.4.0/1.4.1/1.4.2
+LBApi/0.0.1
+Launchpad/0.1.0/0.2.0/0.3.0
+Nifty/0.1.0
+PullToMakeSoup/1.0/1.1/1.2/2.0
+RFPod/0.1.0
+RZTransitions/1.0/1.1.0/1.1.1/1.2/1.2.1
+RocketAlert/1.0-beta.1/1.0-beta.2/1.0-beta.3
+ServiceFramework/1.0.0
+XHTabBar/1.1/1.2/1.3/1.4/1.5/1.5.1/1.5.2/1.5.3/1.5.4
+ZCRefresh/1.02

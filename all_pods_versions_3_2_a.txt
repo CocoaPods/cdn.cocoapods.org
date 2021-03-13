@@ -1,0 +1,9 @@
+AVOAccelaImage/0.0.1/0.0.2/0.1.0/0.1.2/0.1.3/0.1.4
+AdFender/0.0.1
+CreditCardEntryView/0.0.1/0.0.2/0.0.3/0.0.4/0.0.5/0.0.6/0.0.7/0.1.0/0.1.1/0.1.2/0.1.3
+DeflateSwift/0.0.3/0.0.4/0.0.5/0.0.6/0.0.7
+DynamicCodable-SebastianPickl/0.1.0/0.1.1/0.1.2/0.1.3/0.2.0/0.2.1
+LVThemeKit/0.0.6/1.0.0
+SWStepSlider/1.0.0
+YXPressRecord/1.0.0
+ZZVCAnimateTransition/0.1.0

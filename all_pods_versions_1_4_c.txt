@@ -1,0 +1,17 @@
+AppNexusSDKDemoTest/6.0/7.0
+CCAutocomplete/0.0.3/0.0.4/0.0.6
+CNLiveDemoMineModule/0.0.1/0.0.2
+CZCTestPod/0.0.1/0.0.2
+CZCommonLib/1.0.0
+DynamicJSON/1.0/1.0.2/1.0.3/1.0.4/1.0.5/2.0.0/2.0.1/2.0.2
+FlaneurOpen/0.10.0/0.4.0/0.5.0/0.6.0/0.7.0/0.8.0/0.9.0
+JCDialPad/0.1.1
+NetaloSDKs/1.0.0
+Randomizer/0.0.1/0.0.2/0.0.4/0.0.5
+SVFramework/0.1.0
+SZAdapter/1.0.1
+SocialSDKs_Swift_ReducedWeChat/0.1.0/0.1.1/0.1.2
+UIImage+Transforms/1.0.0/1.0.1/1.0.3/1.0.4/1.0.5
+ZXDemo/0.0.1
+crosswalk-extension-presentation/1.0/1.1
+iOSViews/0.1.0

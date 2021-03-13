@@ -1,0 +1,9 @@
+CircularView/0.1.0
+ModelMapper-Swift/0.1.0
+PlutoView/0.0.3
+RxAlert/0.1.0/1.0.0/1.1.0/1.1.1/1.1.2
+SWPagingView/0.1.1
+VLTGeocoder/1.1.0/1.1.1/1.1.2/1.1.3
+WebView-Utilities/0.0.1
+Xennio/1.5/1.7/1.8/2.0/2.2.1/2.2.1.target8/2.2.2.target8/2.2.3.target8/2.2.4/2.2.4.target8/2.2.5.target8/2.2.6.target8/2.2.7.target8/2.2.8.target8/2.3.0.target8/2.3.1/2.3.1.target8/2.3.2/2.3.2.target8/2.4
+bluetoothframework_1/1.0.0

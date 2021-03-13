@@ -1,0 +1,13 @@
+AdVideoBot/2.0.0/3.0.0/4.0.0/5.0.0
+BaseMVVM/0.1.0/0.1.1/0.1.2
+CodeCoverageForXcode/1.0.0
+GKPopLoadingView/0.0.1/0.0.2
+KKAds-ByteDance/0.1.0/0.3.0/0.5.0/0.5.0Beta1/0.5.0Beta2/0.5.1/0.5.3/0.5.4
+RCMessagesViewController/1.0
+SCA4/1.0.0
+SNVIPER/0.0.1/0.0.10/0.0.11/0.0.2/0.0.3/0.0.4/0.0.5/0.0.6/0.0.7/0.0.8/0.0.9
+SegmentedController/0.1.0/0.1.1
+SendWeChatDemo/0.0.10/0.0.4/0.0.5/0.0.8/0.0.9
+WTSimpleStatistics/1.0.0/1.0.1/2.0.0/2.1.0/2.2.0/2.2.2
+WebPay/0.1.0/1.0.0/1.0.1/1.0.2/1.0.3/1.0.4/1.1.0/1.1.1/2.0/2.0.1/2.0.2/2.0.3
+hello-world-framework/0.1.0/0.1.1/0.1.2

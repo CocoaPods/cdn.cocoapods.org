@@ -1,0 +1,14 @@
+AmazeKit/0.13.0/0.13.1/0.14.0/0.14.1
+IRAlertManager/1.0.0/1.0.1
+NoveLogger/1.0.0
+PPTheme/0.1.0/0.2.4
+QLPageScroll/0.1.0/0.2.0/0.2.1/0.2.2/0.2.3
+SwiftUserDefault/0.0.1/0.0.2
+SwiftXib/0.1.0/0.2.0
+TRAlert/0.1.0/1.0.0
+VaeTestpod/0.0.1
+XibSwizzlingView/1.0.1
+YYWRNavigation/0.0.2/0.0.3
+YotiSDKCommon/2.0.0/2.1.0/2.1.1/2.2.0/2.2.1/2.3.0/2.3.1/2.3.2/2.4.0/2.4.1/2.5.0/2.6.0/2.6.1
+basE91/0.6.0
+myFirstPod/0.1.0/0.1.1

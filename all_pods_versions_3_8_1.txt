@@ -1,0 +1,16 @@
+DYNSync/1.0.4/1.0.6
+Foloosi-iOS-SDK/1.0.0/1.0.1/1.0.10/1.0.2/1.0.3/1.0.4/1.0.5/1.0.6/1.0.7/1.0.8/1.0.9
+HiPay/0.1.0/0.2.0/0.3.0/0.4.0/0.5.0/0.7.0/0.8.0/0.8.1/0.9.0/1.0.1
+IMOAutocompletionViewController/0.0.1/1.0.1/1.0.2
+JBParallaxCell/0.0.1
+LolayKat/4.2.0/4.2.1/4.2.2/4.2.3/4.3
+MQKit/1.0.0
+Mohan/1.0.0
+MyLibFirst/0.0.1
+NerdzUtils/1.0.17/1.0.20/1.0.21/1.0.26
+OWPhotoBrowser/0.1.0/0.1.1
+OneTrust-CMP-Xcode11.1/6.3.0.0/6.3.0.0-beta1/6.3.0.0-beta2/6.3.1.0/6.3.1.0-beta1/6.4.0.0/6.4.0.0-beta1/6.5.0.0/6.5.0.0-beta1/6.5.0.0-beta2/6.5.0.0-beta3/6.6.0.0/6.6.0.0-beta1/6.6.1.0/6.7.0.0/6.7.0.0-beta1/6.7.0.0-beta2
+QHView/0.0.1
+SwiftyDequeuable/1.0.0/1.0.2
+ValifyLivenessSDK/1.0.0-beta1/1.0.0-beta2/1.0.0-beta3/1.0.0-beta4/1.0.0-beta5/1.0.0-beta6/1.0.0-beta7/1.0.0-beta8/1.0.0-beta9
+YXUIKit/1.0.2/1.0.3

@@ -1,0 +1,12 @@
+APLCollectionViewDataSource/0.1.0
+AgoraLog/1.0.0/1.0.1/1.0.2
+BottomHalfModal/1.0.0/1.1.1
+CPEExperience/4.0.0/4.1.0/4.1.1/4.1.2/4.2.0/4.2.1/4.2.2
+HWWebclient/1.0.4
+LTFileQuickPreview/0.0.1/0.0.2/0.0.3/0.0.4
+MRAppDelegateComponents/0.1.0
+OceanTokens/0.1.0/0.2.0/1.0.0/2.0.0/2.0.0-alpha.4/2.0.1/2.0.2/2.0.3/2.0.4/2.0.5
+SFHidesOnSwipe/1.0.0/1.0.1/1.0.2/1.0.3
+SwiftR-PeterZ/0.8.4/0.8.5
+VaporCoreCore/2.0.0
+config-reader-ios/0.1.0

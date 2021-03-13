@@ -1,0 +1,11 @@
+AXCameraKit/0.0.1/0.0.2/0.0.3/0.0.4/0.0.5/0.0.6/0.0.7/0.0.8/0.0.9/0.1.0/0.1.1/0.1.2/0.1.3/0.1.4
+AppRTC/1.0.0/1.0.1/1.0.2/1.0.3
+CitymapperNavigation/0.1.0/0.1.0-alpha.1/0.2.0/0.3.0
+KKUIDevice-swift/0.0.2/0.0.3
+LGFPodTest/0.1.0
+LGPodTest/1.1.0
+SSToastView/1.0/1.1/1.2
+UIButton-Repeat/0.0.1
+UIViewController-Responder/0.1.0
+iOS-Reusables-Language/0.1.0/0.1.1/0.1.2/0.1.3/1.0/1.1
+xhTestLibDemo/0.0.1/0.0.2

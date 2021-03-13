@@ -1,0 +1,12 @@
+ACSNetworking/0.0.1/0.0.2/1.0.0/1.0.1/1.0.2/1.2/1.3/1.3.1/1.3.2
+CCCreatePodsLib/0.1.0/0.1.2/0.1.3
+CustomBadge/2.0/3.0.0
+DTImage/1.0.0/1.0.1
+JMAnimatedImageView/0.1.1/0.2/0.2.1/0.2.2/0.2.3/0.2.4
+KKAutoCycle/1.0.1
+LPNavigationBar/1.0.0
+MXTabBarController/0.0.1
+PayUIndia-AssetLibrary/1.0.0/2.0.0/2.0.0-beta1/2.0.2
+RPMNetworkLayer/1.0.0/1.0.1
+SCA5/1.0.0/1.0.1
+SwiftyJsonMapper/1.2.3

@@ -1,0 +1,15 @@
+CopyableLabel/1.0.0/2.0.0/2.0.1/2.0.2/3.0.0/3.1.0/3.1.1/4.0.0/4.2.0
+CreditManagerSDK/0.0.1/0.0.10/0.0.3
+GKPictureInPictureView/0.1.0/0.2.0
+GLPodTest/0.0.1
+JitsiMeetPhpfoxSDK/2.10.3/2.10.3.1/2.10.3.2
+LZPodTestLibrary/0.1.0
+NFCPassportReader/0.0.11/0.0.12/0.0.13/1.0.0/1.0.1/1.0.10/1.0.11/1.0.12/1.0.13/1.0.14/1.0.15/1.0.16/1.0.17/1.0.3/1.0.4/1.0.5/1.0.6/1.0.7/1.0.8/1.0.9/1.1.0/1.1.1/1.1.2
+RETableViewManager-FDTemplateLayoutCell/0.0.1
+RGBAImageBuffer/1.0.0
+TwitchAPIWrapper/0.0.1/0.0.2/0.0.3/0.0.4
+UIDefaultFont/0.1/0.2/0.3/0.4/1.0.0
+UIViewBlock/1.0.3
+YXHttpClient/0.0.2/0.0.3/0.0.4/0.0.5
+ZHFSegment/0.0.1
+zhubohupod3/0.1.0/0.2.0/0.3.0

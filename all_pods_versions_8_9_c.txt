@@ -1,0 +1,14 @@
+AMPOC-SDK/0.0.1/0.0.2/0.0.3/0.0.4/0.0.5
+CNjacob_CoreBluetooth/0.1.0
+FirebaseCoreDiagnosticsInterop/1.0.0/1.1.0/1.2.0
+GEBEncoding/1.0.1
+GNImageProgressBar/0.1.0/0.1.1/0.1.2
+Jupiter/0.0.1/0.0.2
+LDNestedPageView/1.0.0
+QFormData/1.0.1
+SandboxFileManager/1.0.2/1.0.3/1.0.4/1.1.0/1.1.1/1.1.2/1.2.1
+SheetKit/0.1.0/0.1.1/0.1.2
+WebInterface/0.1.0/0.1.1/0.1.2
+ZJKToast/0.1.4
+farwolftest/0.0.1/0.0.2
+walnow/0.1.0

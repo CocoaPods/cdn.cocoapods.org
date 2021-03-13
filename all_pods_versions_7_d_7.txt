@@ -1,0 +1,12 @@
+GDManager/0.1.2
+HZButton/0.0.1
+JMPrincessAnimate/0.0.1
+JRKeyChain/0.0.1/0.0.2
+NatVibration/0.0.1
+OBCycleView/1.0.0/1.0.1
+RxPager/0.1.0/0.2.0/0.3.0/0.3.1/1.0.0
+TBMAlertController/0.0.10/0.0.4
+TextCommon/1.0.0
+TrAnimate/1.0.0/1.0.1/1.0.2/1.0.3/1.0.4
+XGCreatSDK/1.1.0
+YWNewCycleScrollView/0.0.1/2.0.0/4.0.0

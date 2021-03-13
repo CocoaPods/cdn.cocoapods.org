@@ -1,0 +1,17 @@
+AEAccordion/1.0.0/1.0.1/1.0.2/1.0.3/2.0.0/2.0.1/2.1.0/2.1.1
+ActivityIndicatorManager/1.0.0/1.0.1/1.0.2/1.0.3/1.0.4/1.0.5/2.0.0/2.1.0
+ChartLegends/0.0.1/0.0.2/0.0.4/0.0.5/0.0.6
+GYJSON/0.1.6
+HcdKit/1.0.0
+IDFVSample/1.0.0
+KJNavigationViewAnimation/0.1.0
+KSPowerAssertion/1.0
+KXKiOS7ColorsAndGradients/1.0.0
+LVCycleScrollView/0.0.1/0.0.2/0.0.3/0.0.4/0.0.5/0.0.7/0.0.8/0.0.9
+NSLayoutEquations/0.1.1/0.2.0/0.2.1
+SPConnector/0.2/0.3/0.4/0.5/0.6/0.7/0.8
+StartAppsKitAnimations/0.9.1/2.0.0/2.0.1
+SweetDate/1.0.0
+YHQTwoText/0.1.0
+ZWAutoFillView/1.0/1.0.1/1.0.2/1.1
+saorsa.PXQuisiteExtensions/0.7/0.8

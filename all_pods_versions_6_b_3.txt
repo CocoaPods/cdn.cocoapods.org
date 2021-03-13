@@ -1,0 +1,10 @@
+Apxor-Survey/1.1.5/1.1.51/1.1.52/1.1.53/1.1.54/1.1.55/1.1.56/1.1.6/1.1.61/1.1.7/1.1.8/1.1.82
+ESLocale/1.0/1.0.1/1.1/1.2/1.2.1
+ElevationAPI/0.1.0/0.1.1
+FDDataTracks/0.1.0
+ImagePicker-Objective-C/0.0.1
+NeoMobiiOS/1.0.2/1.0.3/1.0.4/1.0.5/1.1.0
+SnowMonkey/1.0.0
+SwiftMemoryLeakWatchdog/0.0.1
+VietMapsCoreNavigation/0.1.0/1.0.0
+testLibA/0.0.1

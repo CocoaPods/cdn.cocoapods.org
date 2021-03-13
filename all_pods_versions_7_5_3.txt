@@ -1,0 +1,14 @@
+AVStyleKit/0.6.0
+Freestyler/0.2.0/1.0.0
+JPCrop/0.1.0
+LaMvvm/0.0.1/0.0.2/0.0.4
+MutableDataScanner/1.0.0/1.0.1/1.0.2/1.0.3/1.0.5/1.0.6/1.0.7/1.1.0
+OnlineChatSdk/0.0.1/0.0.2/0.0.3/0.0.4/0.0.5/0.0.6/0.0.7
+RentlioApi/0.0.2
+SANDateUtil/0.1.0/0.2.0
+SBLibrary/0.1.0/0.1.1/0.2.1/0.2.2/0.3.1/0.3.2/0.4.2
+SXPlugin/0.0.1
+TimelaneCore/1.0.10/1.0.11/1.0.2/1.0.4/1.0.5/1.0.6/1.0.9/2.0.0
+UIView-JTViewToImage/0.1
+UMessage_Lib_IDFA/1.5.0
+jsMyFirstPodWIthLabel/0.1.1

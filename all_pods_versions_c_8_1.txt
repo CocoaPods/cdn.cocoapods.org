@@ -1,0 +1,12 @@
+ARNSpaceStretchFlowLayout/0.1.0/0.1.1
+AlExtensions/0.1.0/0.2.0/0.3.0
+CSDNBLE4.0/0.0.1
+HHAttachmentSheetView/1.0.0/1.4.0
+IGRFilterCombine/0.1.0/0.1.1/0.2.0/0.2.1/0.2.2/0.2.3
+MoPubClient/1.11.0.0/1.12.1.0/1.12.2.0/1.12.3.0/1.12.5.0/1.13.0.0/1.14.0.0/1.14.1.0/1.16.0.0/1.17.0.0/1.17.2.0/1.17.3.0/2.0.0
+Module5SDKXStatic/1.0.0/1.0.1
+PatternView/0.1.0/1.0.0
+ReadersWriterLock/1.0.2
+RxSubject/0.1.0
+WCKeyboardObserver/0.0.1
+WingmanAdsSDK/0.0.1/0.0.10/0.0.11/0.0.14/0.0.15/0.0.16/0.0.17/0.0.18/0.0.19/0.0.2/0.0.20/0.0.21/0.0.22/0.0.23/0.0.24/0.0.3/0.0.4/0.0.7/0.0.8/0.0.9

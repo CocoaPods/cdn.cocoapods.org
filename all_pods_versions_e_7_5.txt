@@ -1,0 +1,10 @@
+AFOSchedulerCore/0.0.1/0.0.2
+BlockAlertsAnd-ActionSheets/1.0.0/1.0.2/1.0.3/1.0.4/1.0.5/1.0.6
+KZTableViewDataSource/1.0.0/1.0.1
+MyDennyExtensionFrameWork/1.0.0
+RKCLLocationValueTransformer/1.0.0/1.1.0
+SAAuth/0.1.0/0.1.1
+UHNTimeSeriesPlotView/0.1.0
+YumiAdColony/3.1.1/3.3.6/3.3.7/4.1.1
+escaConfig/1.0.1
+nessie-ios-wrapper/0.1/0.2

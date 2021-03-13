@@ -1,0 +1,10 @@
+CDP365Analytic/1.0.0/1.0.1/1.0.2/1.0.3/1.0.4/1.0.5/1.0.6/1.0.7/1.0.8/1.0.9/1.1.0
+CollectaPushSDK/0.0.1
+DPStyle/1.0/1.0.1
+FlexibleTableView/1.0.0/1.1.0/1.1.1/1.1.2/1.2
+LYPhotoPickViewController/1.0.0/1.0.1
+MYScoreStarView/0.0.1
+RCNativeiOSSDK/0.0.11/0.0.12/0.0.13/0.0.3/0.0.4/0.0.5/0.0.6/0.0.8/0.0.9
+SVGParser/0.1.0/0.2.0/0.2.1
+SegmentedVideoController/0.1.0
+TLPullRefreshTableView/1.0.0/1.0.1

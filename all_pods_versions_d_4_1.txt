@@ -1,0 +1,11 @@
+AutoCompleteSuffixView/0.1/0.2/0.3
+CameraBackground/1.0.0/1.0.2/1.1.0/1.1.1/1.1.2/1.2/1.3.1/1.4/1.4.1/1.5.0/1.6.0/1.6.1/1.6.2/1.6.3/1.6.4/1.6.5
+ChuteSDK-iOS/1.0.0
+DAZABTest/1.0.0
+DubaiPodTest/1.0.0
+Floaty/3.0.0/3.0.1/4.0.0/4.0.1/4.1.0/4.2.0
+NKCache/1.0.0
+NibWrapper/0.1.0/0.1.1/0.2.0/1.0.0
+PicStamp/0.1.0
+TPPageViewController/0.1.0
+XYGCDTimer/1.0.0

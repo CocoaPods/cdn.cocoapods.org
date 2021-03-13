@@ -1,0 +1,14 @@
+AKABadge/0.1.4/0.1.5
+AstroCocoaPackage/1.0.0
+DDBlackWhite/0.0.2
+DIDComm-gRPC/0.0.1/0.0.2/0.0.3
+EllipticLicense/0.1.1
+GTTableViewController/1.0.0/1.2.0
+JPictureBy/1.0.0
+RosaKit/0.0.1
+STP/0.1.0/0.1.1/0.2.0/0.3.0
+STableViewController/0.0.1/0.0.2
+SwiftyKVStore/0.1.0-alpha/0.1.0-alpha.1/0.2.0/0.3.0
+Transitioning/1.0.0/1.1.0/1.1.1
+UserTrackingButton/0.1.0/0.1.1
+XYRefreshTool/1.0.0/1.0.1/1.0.2

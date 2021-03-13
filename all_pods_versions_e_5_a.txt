@@ -1,0 +1,16 @@
+AGJObjcRuntime/0.0.1
+AlamofireSwiftSoup/1.0.0
+BarcodeEasyScan/0.1.0/0.2.0/0.3.0
+DelaunaySwift/0.1.1/0.1.2
+EventCalendar/0.1.2/0.1.3/0.1.4/0.1.5/0.1.6
+HYXMLParser/0.0.4/0.0.5/0.0.6
+IRCoreDataStack/1.0/1.0.0/1.0.2/1.0.4
+JFKits/0.1.0/0.1.1/0.1.2/0.1.3
+LSFloatingLabel/1.0.4
+MICRReader/0.0.1/0.0.2/0.0.3/0.0.4/0.0.5/0.0.6/0.0.7/0.0.8/1.0
+ModelFramework/1.0.0
+RideOsGoogleMaps/0.1.0/0.2.0
+Shining/0.1.3/0.1.4/0.1.5/0.1.6/0.1.7/0.1.8
+WeChatSDK/0.0.1
+XCTest3/0.1.0/0.1.1/0.2.0
+YBNimbus/0.1.0
