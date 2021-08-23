@@ -37,6 +37,8 @@ jobs:
           publish_dir: ./_specs/_site
           cname: cdn.cocoapods.org
           force_orphan: true
+          user_name: CocoaPodsBot
+          user_email: cocoapodsbot@users.noreply.github.com
       - name: Tell Honeybadger.io
         if: github.event_name == 'schedule'
         env: 
