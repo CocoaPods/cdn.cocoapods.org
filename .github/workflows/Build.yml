@@ -3,6 +3,8 @@ name: Build
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Set build image var
         run: echo "ImageVersion=$ImageVersion" >> $GITHUB_ENV
