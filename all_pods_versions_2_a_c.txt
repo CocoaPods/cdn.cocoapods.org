@@ -1,0 +1,17 @@
+Alerta/4.0.3/4.0.4/4.0.5/4.0.6/4.0.7/4.1/4.2/4.2.1/4.2.2
+DZGSVGAPlayer/1.0.1/1.0.2
+HQJToolManager/0.0.1
+HR_Linker/0.1.0
+JMKit-ToolBox/0.1.0/0.2.0/0.3.0
+LibComponentLogging-UserDefaults/1.0.3
+MUComponent/0.1.0
+Mocker/1.0.0/1.1.0/1.2.0/1.2.1/1.3.0/2.0.0/2.0.1/2.0.2/2.1.0/2.2.0/2.5.2/2.5.4/2.5.5
+Module2_george/0.0.1/0.0.2/0.1.0
+NavigationKit/0.1.0
+PLVBytedEffectSDK/4.3.1/4.4.2
+PSFadingScrollView/0.1.0
+ServiceRegistry/0.1.0/0.1.2/0.1.3/0.2.0/0.3.0/0.3.1
+TZFRAMEWORK/0.1.0/0.1.1
+TaurusXAdMediation_Chartboost/8.0.1.2/8.0.3.2
+WebViewJavascriptBridge_WebKit/7.0.0/7.0.1
+YEOPay/0.0.1/0.0.2
