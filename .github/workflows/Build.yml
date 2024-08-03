@@ -11,6 +11,9 @@ jobs:
       - uses: actions/checkout@v4
       - name: Checkout Specs (script)
         run: |
+          git config --global pack.windowMemory "100m"
+          git config --global pack.packSizeLimit "100m"
+          git config --global pack.threads "1"
           git clone --filter=tree:0 --verbose https://github.com/CocoaPods/Specs _specs
       # - name: Checkout Specs
       #   uses: actions/checkout@v4
