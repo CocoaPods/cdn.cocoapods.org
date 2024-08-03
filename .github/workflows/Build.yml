@@ -15,7 +15,7 @@ jobs:
           repository: CocoaPods/Specs
           path: _specs
           fetch-depth: 0
-          filter: 'blob:none'
+          filter: 'tree:0'
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
