@@ -59,7 +59,7 @@ on:
     types: 
       - cronjob
   schedule:
-    - cron:  '* * * * *' # max frequency specified because the actual frequency is determined by GH Actions rate limit  
+    - cron:  '*/5 * * * *' # max frequency specified because the actual frequency is determined by GH Actions rate limit  
       branches:
       - main
 
