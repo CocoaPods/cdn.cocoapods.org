@@ -61,7 +61,7 @@ on:
   repository_dispatch:
     types: 
       - cronjob
-  schedule:
-    - cron:  '*/10 * * * *'
+  #schedule:
+  #  - cron:  '*/10 * * * *'
 
 
