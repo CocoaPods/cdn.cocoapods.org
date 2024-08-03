@@ -5,6 +5,9 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    strategy:
+      fail-fast: false
+
     steps:
       - name: Set build image var
         run: echo "ImageVersion=$ImageVersion" >> $GITHUB_ENV
@@ -60,4 +63,5 @@ on:
       - cronjob
   schedule:
     - cron:  '*/10 * * * *'
+
 
