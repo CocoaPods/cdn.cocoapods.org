@@ -8,9 +8,9 @@ jobs:
     steps:
       - name: Set build image var
         run: echo "ImageVersion=$ImageVersion" >> $GITHUB_ENV
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - name: Checkout Specs
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           repository: CocoaPods/Specs
           path: _specs
@@ -18,7 +18,7 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 2.7
-      - uses: actions/cache@v2
+      - uses: actions/cache@v4
         with:
           path: vendor/bundle
           key: gems@v1-${{ runner.os }}-${{ env.ImageVersion }}-${{ hashFiles('Gemfile.lock') }}
