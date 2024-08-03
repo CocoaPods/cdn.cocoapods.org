@@ -9,22 +9,12 @@ jobs:
       - name: Set build image var
         run: echo "ImageVersion=$ImageVersion" >> $GITHUB_ENV
       - uses: actions/checkout@v4
-      - name: Checkout Specs (script)
-        run: |
-          git config --global pack.windowMemory "100m"
-          git config --global pack.packSizeLimit "100m"
-          git config --global pack.threads "1"
-          git config --global http.postBuffer 524288000
-          export GIT_CURL_VERBOSE=1
-          export GIT_HTTP_MAX_REQUESTS=16
-          git clone --filter=tree:0 --verbose https://github.com/CocoaPods/Specs _specs
-      # - name: Checkout Specs
-      #   uses: actions/checkout@v4
-      #   with:
-      #     repository: CocoaPods/Specs
-      #     path: _specs
-      #     fetch-depth: 0
-      #     filter: 'tree:0'
+      - name: Checkout Specs
+        uses: actions/checkout@v4
+        with:
+          repository: CocoaPods/Core
+          path: _core
+          fetch-depth: 0
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
