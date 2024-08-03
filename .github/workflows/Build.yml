@@ -10,8 +10,13 @@ jobs:
         run: echo "ImageVersion=$ImageVersion" >> $GITHUB_ENV
       - uses: actions/checkout@v4
       - name: Checkout Specs
-        run: |
-          git clone --single-branch --branch master --verbose --depth=1 https://github.com/CocoaPods/Specs _specs
+        uses: actions/checkout@v4
+        with:
+          repository: CocoaPods/Specs
+          path: _specs
+          filter: 'tree:0'
+          sparse-checkout: |
+            .
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
