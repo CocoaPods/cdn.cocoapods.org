@@ -9,13 +9,16 @@ jobs:
       - name: Set build image var
         run: echo "ImageVersion=$ImageVersion" >> $GITHUB_ENV
       - uses: actions/checkout@v4
-      - name: Checkout Specs
-        uses: actions/checkout@v4
-        with:
-          repository: CocoaPods/Specs
-          path: _specs
-          fetch-depth: 0
-          filter: 'tree:0'
+      - name: Checkout Specs (script)
+        run: |
+          git clone --filter=tree:0 https://github.com/CocoaPods/Specs _specs
+      # - name: Checkout Specs
+      #   uses: actions/checkout@v4
+      #   with:
+      #     repository: CocoaPods/Specs
+      #     path: _specs
+      #     fetch-depth: 0
+      #     filter: 'tree:0'
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
