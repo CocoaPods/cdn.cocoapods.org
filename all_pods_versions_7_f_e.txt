@@ -1,0 +1,17 @@
+BNXRView/0.0.1
+CodableJSON/1.0.0/1.1.0/1.1.1/1.1.3/1.1.4/1.2.0/2.0.0/2.0.2/3.0.0
+GPNetworking/1.0.1
+LMJHorizontalScrollText/2.0.0/2.0.1/2.0.2
+LinnoEncrypt/0.1.0/0.1.1/0.1.2/0.1.4/0.1.5/0.1.6/0.1.7/0.1.8/0.1.9
+MGWaitingAndResultView/0.0.1
+MOBFoundation_m1/0.0.1
+NMSSHT7/2.8/2.9/2.9.1
+NewChatDemo0/0.1.0
+PPJTSImageViewController/1.5.1/1.5.2
+Permit/1.0.0
+PinIt/1.0
+RHKeyValueStore/0.1.1/0.1.2/0.1.3
+ReusableTableViewController/0.1.0/0.1.1/0.2.0/0.3.0/0.4.0/0.4.1/0.5.0
+SSeoUtilities/0.0.1
+YMLogoAlert/0.1.0/0.2.0/0.3.0/1.0.0
+liveshopper/0.1.1/0.1.2/0.1.3/0.1.4
