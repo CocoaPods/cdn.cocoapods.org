@@ -1,0 +1,16 @@
+BackButtonHandler/1.0.0
+CLWeeklyCalendarView/0.0.2/0.0.3
+FQYSectionIndexView/0.0.2/0.0.3/0.0.4
+FlybitsV3ContextSDK/1.0.0/1.0.0-30/1.0.0-40/1.0.0-45/1.0.0-51/1.0.0-52/1.0.0-53/1.0.0-54/1.0.0-b/1.0.0-b2/1.0.0-b3/1.0.0-b4
+IVGCoreDataUtils/1.0.0/1.0.1/1.0.2/1.0.4
+LffHealper/0.1.0/0.3.0
+Lobster/0.1.0/1.0/1.1/1.2/2.0/2.1/2.2/3.0.0/3.1.0/3.1.1
+PrecisoAi/1.5.0/1.5.1/1.5.2/1.5.3
+QiuboArcfaceKit/0.0.1
+SessionMLocation/1.15.1/1.15.10/1.15.2/1.15.3/1.15.4/1.15.5/1.15.6/1.15.7/1.15.8/1.15.9
+SpeedComboSDK/1.0.3
+SwiftyLibAleksandra/0.0.1
+TMUtils/1.0.0/1.0.1
+UPLiveSDKDemo/2.4/2.5
+Vuukle/0.5.0/0.7.0/0.8.0/0.9.0/2.0.15/2.0.2/2.0.20/2.0.21/2.0.22/2.0.23/2.0.24/2.0.25/2.0.26/2.0.3/2.0.4/2.0.5/2.0.7/2.0.8
+podsCodeTest/0.0.1

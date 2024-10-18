@@ -1,0 +1,16 @@
+AMRSDK-ZYNGA/1.4.1
+AWChineseSorting/0.0.1
+BNRDynamicTypeManager/0.1.0
+CJImageViewSwift/1.0.4
+ConsoleView/0.1.0
+HTAppleLogin/0.0.1
+JXVerticalLayout/0.1.0/0.2.0
+LeftAlignedCollectionViewLayout/0.1.0/0.1.1
+OJNetWorkTools/1.0.0/1.0.1
+PhotoSlider/0.1.0/0.1.1/0.10.0/0.11.1/0.12.1/0.13.0/0.13.1/0.13.2/0.13.3/0.14.1/0.14.2/0.14.3/0.15.0/0.16.3/0.17.0/0.17.1/0.18.0/0.19.0/0.2.0/0.2.1/0.21.0/0.22.0/0.3.5/0.3.6/0.3.7/0.4.0/0.6.0/0.7.0/0.8.0/0.8.1/0.8.2/0.8.3/0.9.0/1.0.0/1.0.1/1.1.0/1.2.0
+StableCollectionViewLayout/0.1.0/1.0.2
+Swerror/1.1
+TPExIdentityCardOCR/1.0.0/1.0.1/1.0.2/1.0.3/1.0.4/1.0.5/1.0.6/1.0.8
+YISplashScreen/1.0.0/1.1.0/1.2.0/1.2.1
+YJNavigationFullGesture/1.0.0/1.0.1
+YooMoneySDKObjc/2.4.0

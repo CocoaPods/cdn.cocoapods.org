@@ -1,0 +1,17 @@
+AACustomDatePicker/0.1.1
+BiometridStandard/1.0.3/1.0.4/1.0.5/1.0.6/1.0.7/2.3.0/2.3.1/2.3.10/2.3.2/2.3.3/2.3.4/2.3.5/2.3.6/2.3.7/2.3.8/2.3.9
+CraftDSwiftUI/0.0.1/0.0.2/1.0.0/1.0.1
+FTAuthentication/1.0/22.3
+GravityTagCloudView/0.2.0
+MFCameraManager/1.0.0/1.1.0/1.1.1/1.1.2/1.1.3
+PPPrivate/0.3.0
+RNSync/0.1.0/0.1.2/0.1.3
+SketchExtensions/0.1.0/0.3.0/0.4.0
+SpoofSense/0.0.1/0.0.2/0.0.3/0.0.4/0.0.5/0.0.7/0.0.8/0.0.9
+SwiftOverlay/0.1.0
+Vike-GoogleAnalytics/0.1.4.3
+XMPFramework/1.0.0
+XT_Test_Pod/1.0.0
+YPY1Login/0.1.0/0.2.0
+bkclient-ios/0.1.0/0.1.13/0.1.14/0.1.15
+spaceTest/0.2.0

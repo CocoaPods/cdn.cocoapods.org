@@ -1,0 +1,14 @@
+Adelanto/0.1.0/0.1.1
+AutoSQLiteSwift/0.0.6/0.0.7/0.0.9
+Bankside/0.1.0/0.2.0/0.3.0
+CMAVAudioSessionManager/0.0.1/0.0.2/0.0.3
+CzyPraviteRepoDemo/0.0.1
+FLlogin/0.0.2/0.0.3/0.0.3.1/0.0.3.2/0.0.3.3/0.0.3.4/0.0.3.5
+IDLFaceSDK/1.0.0
+NamadaJSON/1.0.0/1.0.1/1.0.2
+OSInAppBrowserLib/1.0.0
+PLVVolcEngineRTCExt/3.41.301/3.41.302/3.41.304
+SimpliFile/1.0/1.0.1/1.0.3/1.0.5/1.0.6
+SimplyHandheld/0.1.0/0.1.1/0.1.2/0.1.3/0.1.4/0.1.5/0.1.6/0.1.7/0.1.8/0.1.9/0.2.0/0.2.1/0.2.2/0.2.3/0.2.4/0.2.5/0.2.6/0.2.9/0.3.0
+WLQRCodeScanner/1.0.1/1.0.2
+YHView/0.0.3
