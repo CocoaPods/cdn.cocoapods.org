@@ -1,0 +1,16 @@
+ASJGooglePlaces/0.1/0.2/1.0/1.1/1.2
+CJTableView/0.1.0
+FCCSUtils/0.0.1/0.0.2/0.0.3/0.0.4
+HSCoreDataTools/1.0.0/1.0.1
+IDCardNumber-Validator/1.0.0
+JSRotatingView/0.1.0
+KnobControlDDzz/1.1.0
+LiKui/2.0.1/2.0.2
+NBaseAdapterProviderApple/1.0.10/1.0.21
+RichOXFissionAdapter_Firebase/1.0.0/1.0.1
+SimpleCharts/0.0.1
+SwiftInstagram/1.0.0/1.0.1/1.0.2/1.0.3/1.0.4/1.0.5/1.0.6/1.1.0/1.1.1/1.1.2
+SwiftOperators/509.0.0-swift-DEVELOPMENT-SNAPSHOT-2023-06-05-a/509.1.0
+UBHistory/0.1.0/0.1.1/0.1.2/0.2.0/0.2.1/0.2.10/0.2.11/0.2.12/0.2.13/0.2.14/0.2.15/0.2.17/0.2.18/0.2.19/0.2.2/0.2.3/0.2.4/0.2.5/0.2.6/0.2.7/0.2.8/0.2.9/0.3.0/1.0.0/1.1.0/1.1.1/1.1.11/1.1.12/1.1.13/1.1.2/1.1.3/1.1.4/1.1.5/1.1.6/1.1.7/1.1.8/1.1.9/1.2.0/1.2.1/1.2.2/1.2.3/1.2.4/1.2.5
+iOSKits/0.0.1/0.0.2
+saorsa.PXQSpinner/0.1

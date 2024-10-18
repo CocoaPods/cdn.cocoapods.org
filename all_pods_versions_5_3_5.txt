@@ -1,0 +1,17 @@
+AKUIKitBase/0.1.0/0.1.1/0.1.2
+CCAuthority/0.0.1
+CMTools/1.0.0/1.0.1/1.0.2/1.0.2.1/1.0.2.3/1.0.2.4/1.0.2.5/1.0.2.6/1.0.3.5/1.0.3.6/1.0.3.9/1.1.0/1.1.1/1.1.2/1.2.1
+CoreDataHandler/0.0.1
+DDNetworking2/0.1.0
+EmojiLogger/1.0.0/1.0.1
+GTUIKitAdditions/0.1.0/0.2.0
+HTGradientEasing-Fixed/0.0.8
+LHC6/0.0.1/0.0.2
+LVTEKYCsdk/0.0.1/0.0.2
+Lorikeet/0.1.24/0.2.26
+QPosTest/0.0.1
+ReleaseKit/1.0
+SBRProjectBase/0.1.0/0.1.10/0.1.11/0.1.12/0.1.13/0.1.3/0.1.4/0.1.7/0.1.8/0.1.9
+SEPageViewWithNavigationBar/1.0.0/2.0.0/2.1.0
+UDPBroadcastListener/0.1.0
+WtCore/0.1.0/0.4.0/0.4.2/0.4.3/0.4.5/0.4.7/0.4.8/0.4.9/0.5.1/0.5.2/0.5.3/0.5.8/0.6.0/0.6.1

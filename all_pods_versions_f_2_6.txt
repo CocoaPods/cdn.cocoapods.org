@@ -1,0 +1,13 @@
+ABBCharts/1.0.0/1.5.0
+Cedar/0.0.1/0.10.0/0.11.0/0.11.1/0.11.2/0.11.3/0.12.0/0.13.0/0.13.1/0.8.1/0.9.0/0.9.1/0.9.3/0.9.4/0.9.5/0.9.6/0.9.7/0.9.8/1.0
+EMAccordionTableViewController/0.4/0.5/0.5.2/0.5.3/0.5.4/0.5.5
+GHValueAdjust/0.0.2/0.0.5
+InnoPlayer_iOS_SDK/0.3.0/0.3.1/0.3.2/0.3.3/0.3.4
+LycamPlusPlay/0.0.1/0.0.2/0.0.4
+MKSDK/1.0.0
+STMSideMenuController/0.1.0/0.1.1/0.1.2/0.1.3/0.1.5/0.2/1.1/1.2/1.2.1/1.2.2
+TDCHttpsTool/1.0.0/1.0.1/1.0.2/1.0.4/1.0.5
+UILayoutSugar/1.0.0
+YMCirclePickerView/1.0.0/1.0.1/1.0.2/1.0.3/1.0.4/1.0.5
+ZQPopoView/0.0.1
+ZSBellAnimationView/0.0.1/0.0.3

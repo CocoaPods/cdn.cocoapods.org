@@ -1,0 +1,12 @@
+ASSubmitTransition/0.1.0
+AlbumTool/0.1.0
+BFDBLocationPriority/0.0.1/0.0.2
+DBZInsuranceModuleMock/1.0.0
+DFDiff/0.1.0
+JNGradientLabel/1.0.0/1.0.1/1.0.2/1.0.3
+LoadingPlaceholderView/0.0.1/0.0.2
+SwiftExtenions/0.1.0/0.1.1/0.1.2
+SwiftlyExt/0.0.1/1.0/1.0.1/1.0.2/1.1.0/1.3.0
+TapVideoManagerV2/1.0.1
+WolfBase/5.3.1/5.3.2/5.4.0
+ZXPopPresentation/0.1.1/0.1.2/0.1.3/0.2.0

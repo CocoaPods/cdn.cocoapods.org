@@ -1,0 +1,17 @@
+AgileJSON/0.1.0/0.1.1
+CHHelpers/0.1.0/0.1.1/0.1.2/0.1.3/0.2.0/0.2.1/0.2.2/0.2.3/0.2.4/0.2.5/0.2.6
+GTMBarcodeScanner/1.0/1.0.1/1.1
+InviteCodeSDK/0.1.0
+LocalAuthenticationManager/0.1.0
+MacroProject/0.1.0
+MyWeblibLibrary/0.1.0
+Restofire-Gloss/1.0.0/1.0.1
+RevoSockets/0.0.1/0.0.10/0.0.2/0.0.6/0.0.7/0.0.9
+SGNavigationBar/0.0.6
+StoryTeller/0.1.0
+TEQRCodeEmbed/0.1.0
+Tanjiro/1.0.0/1.0.1
+UniversalRouter/0.0.1/0.0.2/0.0.3/0.0.4
+iOSImageRefiner/0.3.0/1.0.0/1.0.1/1.1.0
+libde265/1.0.10/1.0.11/1.0.12/1.0.13/1.0.14/1.0.15/1.0.3/1.0.4/1.0.5/1.0.6/1.0.7/1.0.9/1.0.9-beta
+uicontrol-blocks/1.0.0/1.1.0
