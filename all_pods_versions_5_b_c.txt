@@ -1,0 +1,17 @@
+AuthoritiSDK/0.0.1/0.0.2
+CustomTabBarVC/1.0.0/1.0.1/1.0.2/1.0.3/1.0.4/1.0.5/1.0.6/1.0.7/1.0.8
+GeddyPodTest/1.0.0
+HHCommonUtils/1.0.3/1.0.4/1.0.5
+KKAlipaySDK_No_UTDID-iOS/15.6.5
+LcyTestDemo/0.1.0
+MKCutImageViewController/0.0.1
+MSWebApp/0.1.0/0.2.0/0.3.0/0.4.0/0.5.0/0.6.0/0.7.0/0.8.0/0.9.0/1.0.0/1.0.1/1.0.2/1.0.3/1.0.8/1.1
+NetworkMapper/0.0.1/0.0.2/0.0.3/0.0.4/0.1.0/0.1.1/0.1.2/0.1.3/0.2.0/1.0.0/1.0.1/1.1.0/1.1.1/1.1.2/1.1.3/1.1.4
+Prueba/0.1.0
+QuickBLE/0.9.1
+SLCore/0.0.1
+UIViewController+Controller/0.0.1
+VACalendar/0.1.0/0.1.2/0.1.3/1.1.4/1.1.6/1.2/1.3
+VMTableViewStaticCells/0.1
+VPGenericCollectionView/0.1.0/0.2.0/0.3.0/0.4.0
+WGExtension/1.0.1/1.0.2/1.0.3/1.0.4/1.0.5/1.0.6/1.0.7/1.0.8/1.0.9

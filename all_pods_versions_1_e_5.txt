@@ -1,0 +1,16 @@
+AuraIncrementor/0.0.1/0.0.2
+Commons/1.0.1/1.0.2
+DSSuspendManager/0.1.5
+FullscreenPopGesture/0.1.0/1.0.0/1.0.1/1.1.0/1.1.1/1.2.0/1.2.2/1.2.3/1.2.4/1.4.4/1.4.5
+HFMoMain/0.1.0
+HNSuperButton/1.0.1/1.0.3
+JCCircularCollectionViewProxy/0.0.1/0.0.2
+JDFNavigationBarActivityIndicator/1.0
+LCWebImage/1.0.0/1.1.0
+SWFrameButton/0.1.0/1.0.0/1.0.1/1.0.2/1.1.0/1.2.0/1.2.1/1.2.2
+SocialSDKs_Swift_TencentQQ/0.1.0/0.1.1/0.1.2
+StackViewSeparator/0.1.0/0.1.1/0.1.2/0.1.3
+SuperMarket/0.1.0/0.1.2/0.1.3
+TechSee/1.0.5/1.3.5/2.2.2/2.3.2/2.3.2Internal/2.3.3/2.3.4/2.3.5/2.3.6/3.3.5/3.3.6
+TradPlusKlevinAdapter/1.0.0/7.2.0/7.3.0/7.4.0/7.5.0/7.6.0/7.7.0/7.8.0/7.8.10/7.9.0/8.0.0/8.1.0/8.2.0/8.3.20/8.4.0/8.5.0/8.6.0
+gitdemo/1.0.0

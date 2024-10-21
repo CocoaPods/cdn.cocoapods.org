@@ -1,0 +1,17 @@
+AJPopAlert/0.1.0
+AKKeychainManager/1.0.0/2.0.0
+Almanakka/0.0.1
+EKnobControl/1.0.0
+FSPFinalTest/0.0.1
+FlexLayoutKit/0.4/0.5
+HOURecursiveDescription/0.0.1/0.0.2
+InfineaSDK/1.03.20/1.03.21
+LaserSwippableCell/1.0.0
+LkqPriCocoaPodsLearn/1.0.0
+MicrosoftMapsSDK/0.1.1/0.1.2/0.1.3/0.1.4/0.2.0/1.0.0/1.0.1/1.0.2/1.0.3/1.1.0/1.1.1/1.1.2/1.1.3/1.1.4/1.2.0
+OpenSSL-Apple-Bitcode/1.0.0/1.0.1/1.0.2/1.0.3/1.0.4/1.0.5
+PSCommonKit/0.1.0/0.1.1/0.1.10/0.1.11/0.1.12/0.1.13/0.1.2/0.1.3/0.1.4/0.1.5/0.1.6/0.1.7/0.1.8/0.1.9
+PaltaLibEventsTransport/1.0.0/1.0.0-beta
+YOAuthConsumer/1.0.8/1.0.9
+ZContent/0.4.5
+mpalertview/0.0.1/0.0.2

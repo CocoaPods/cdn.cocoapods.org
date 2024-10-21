@@ -1,0 +1,17 @@
+APFeedBack/0.1.0/0.1.1/0.1.2
+ASCameraController/0.0.1/0.0.2
+AsyncCollections/0.0.1
+CRDSettings/1.0.0/1.0.1/1.0.2/1.0.3/1.0.4/1.0.5/1.0.6
+CXLSlideList-master/0.0.2/0.0.3/0.0.4
+FacebookShare/0.1.0/0.1.1/0.2.0/0.3.0/0.3.1/0.3.2/0.3.3/0.4.0/0.5.0/0.6.1/0.7.0/0.8.0/0.9.0
+GrooveAds/0.0.1/0.0.2/0.0.3/0.0.4/0.0.5/0.0.6/0.0.7/0.0.8/0.0.9
+HiveProviderAdjust/0.0.1/0.0.2/0.0.3/0.0.4
+IronSource-DIO-Adapter/4.0.0/4.1.7/4.2.0
+JCBlocks/2.0.0
+LetMeAuth-VkontakteSDK-iOS/1.0.0/1.1.0/2.0.0/2.0.1
+LucidLayout/0.9.2
+SGSPopover/0.1.0/0.1.1
+SmartSegmentedControl/0.1.1/0.1.2
+SwiftAudioEx/0.13.0/0.13.1/0.13.2/0.14.0/0.14.1/0.14.2/0.14.5/0.14.6/0.14.7/0.15.0/0.15.1/0.15.2/0.15.3/1.0.0/1.0.0-rc.1/1.0.0-rc.10/1.0.0-rc.11/1.0.0-rc.2/1.0.0-rc.3/1.0.0-rc.4/1.0.0-rc.5/1.0.0-rc.6/1.0.0-rc.7/1.0.0-rc.8/1.0.0-rc.9/1.1.0
+WRSLib/0.0.2
+WYPodTwo/0.1.0/0.1.1

@@ -1,0 +1,14 @@
+CYBleManager/0.0.1/0.0.3
+FFCPieChart/1.0.0
+G3JSON/0.0.1/0.1.0/0.1.1/0.1.2
+HCSStarRatingView/1.2/1.2.1/1.3/1.4/1.4.1/1.4.2/1.4.3/1.4.4/1.4.5/1.5
+JazzSDK/23.4.1/23.5.1/23.6.1/23.7.1
+Masiuk2021/0.1.0
+ModelsR4/0.5.0
+PodsLibrary/0.1.0
+S2iTest/3.23.0/3.23.1
+TransitionViewController/0.1.0/1.0.0/1.1.0
+VKiOSViews/0.1.0
+WYDevToolKitiOS/0.0.1/0.0.2/0.0.9/0.1.0/0.1.1/0.2.0/0.2.1/0.2.2/0.3.0/0.3.1
+YBNetworkKit/0.1.0/0.3.0/0.4.0
+ZDDebugKit/1.0.0
