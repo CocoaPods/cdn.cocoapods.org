@@ -1,0 +1,14 @@
+BDMAmazonAdapter/1.7.1.0/1.7.3.0/1.7.3.1/1.7.4.0/1.8.0.0/1.9.0.0/1.9.0.0-Beta.0.0/1.9.1.0/1.9.2.0/1.9.3.0/1.9.4.0/1.9.4.1/1.9.4.2/1.9.5.0
+BFNavigationBarDrawer/1.0.0/1.0.1/1.0.2
+CuckooAlert/0.0.1/1.0.0/1.0.1/1.1.0
+KMCache/0.1.0/0.1.1/0.1.2/0.1.3/0.1.4/0.1.6/0.1.7/0.1.8/0.1.9
+LZHComponent/0.1.0/0.1.1/0.1.2/0.1.3
+PortalIosLibraryMidware/0.0.2/0.0.3
+SwiftLibPaige/0.0.1/0.0.2/0.0.3
+TDetailBoxView/1.0.0
+TKCrashNilSafe/1.0/1.1/1.3
+WalletCore-xc/0.2/0.3
+WordPressSimplify/1.0.0/1.0.1/1.1.0/1.2.0/1.3.0
+XLPageController/0.0.2/0.0.3/0.0.4/0.0.5/0.0.6
+delayer/1.0.0
+podtesterapprax/0.1.0/0.1.1

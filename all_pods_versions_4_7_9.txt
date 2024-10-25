@@ -1,0 +1,15 @@
+AliceSDK/0.0.1/0.0.2
+CastorSDK/0.0.1/0.0.2/0.0.3/0.0.4/0.0.5
+CreditCardRow/1.0.0/2.0.0/2.1.0/3.0.0/3.1.0/3.2.0
+FZRPrivate/0.0.3
+JavaScriptTalkNatvieEasy/1.0.0
+KryptoSwift/1.0.0/1.0.1
+NBLSideSlipFilter/0.1.0/0.1.1/0.1.2/0.1.3
+OG/1.0/1.1/1.1.1/1.2/1.3/1.3.1/1.3.2/1.3.3
+OMLiquidView/0.0.1
+ProgressBars/0.1.0
+StellarErrors/0.2.7/0.3.17/0.4.0/0.4.1
+SwiftyAuthentication/0.1.0
+VIUMiddlewareGP/0.0.3/0.0.5/0.0.6
+XZLocalization/1.0.0/1.0.1/1.0.2
+ios-control-panel/0.0.1/0.0.2

@@ -1,0 +1,17 @@
+ASNotificationCenter/0.1.0/1.0.0/1.0.1
+BB_Model/0.1.0/0.1.1/0.1.2/0.1.3/0.1.4/0.1.5/0.1.6/0.1.7
+BCFloat16/0.2.0/0.2.1/0.3.0
+BinaryTest/0.1.0
+CCWebView/0.1.0
+DNSiOSLocalizationTestHelpers/1.0.0
+DrawingPDF/1.0.1/1.0.2/1.0.3/2.0.0/2.0.1
+FDJUtilityObjC/0.1.0-beta.1/0.1.0-beta.2/0.1.0-beta.3/0.1.0-beta.4/0.1.0-beta.5
+FERBase/1.0.0
+Genome/0.1/1.0/1.0.3/1.0.4/1.0.6/1.0.8/2.0.0/2.0.0-beta/2.0.0-beta1/2.0.0-beta3/2.0.1/2.0.4/3.0.2/3.2.0/3.2.1
+KFXAbstracts/1.0.1/1.1.0/1.2.0
+MLKitTextRecognitionCommon/1.0.0/1.0.0-beta1/1.0.0-beta2/1.0.0-beta3/1.0.0-beta4/1.0.0-beta5/1.0.0-beta6/2.0.0/3.0.0/4.0.0
+NTLocationSelect/1.0/1.1/1.1.1
+ProgressImage/0.1.0/0.1.1/0.2.0/0.2.1/0.2.2/0.2.3/0.3.0
+Spotify-iOS-SDK/0.10.0/0.10.1/0.10.2/0.10.3/0.11.0/0.11.1/0.12.0/0.13.0/0.14.0/0.15.0/0.16.0/0.16.1/0.17.0/0.20.0/0.21.0/0.24.0/0.24.1/0.25.0/0.25.2/0.27.0/0.6.0/0.7.0/0.8.0/0.9.0
+VCTransitionsLibrary/1.0.0/1.1.0/1.2.0/1.3.0/1.4.0/1.5.0
+WJXWaterfallLayout/1.0.0

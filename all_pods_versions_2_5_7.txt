@@ -1,0 +1,16 @@
+AppManager/0.1.0/0.1.1
+DDOuralabsLogger/0.1.0
+DHCWBBPY/3.5.9.1
+DebFileResolver/1.0.0/1.0.1
+ExtGenerator/0.0.1
+FFPlayNAT_Demo/0.1.0/0.1.1/0.1.2/0.2.0/0.2.1/0.2.7/0.2.8/0.3.0
+IU_CustomViews/0.1.0
+MFWebLottie/0.1.0/1.0.0/1.0.1/1.1.0/1.1.1
+MMRtmp/1.0.0
+OANavigatorKit/1.0.0
+RTMTokenBuilder/1.0.0/1.0.1/1.0.2
+SimpleNotificationBar/0.1.0
+YDCustomChart/1.0.1
+YandexMapKitPlaces/3.1.0/3.1.2/3.2.0/3.3.0/3.3.1/3.4/3.5.0
+ZAPhoto/0.1.0/0.1.5/0.1.6
+ZWLogin/0.1.0

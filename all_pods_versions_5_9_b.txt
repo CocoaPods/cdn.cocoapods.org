@@ -1,0 +1,12 @@
+AppLyftCocoaLumberjack/1.0.3/1.0.4
+GAPicStarRatingView/0.0.2/0.0.3
+GYWCimg/0.0.5/0.0.6
+MFNetworking/1.0.0/1.0.1/1.0.2/1.0.3
+MXLCalendarView/0.1.1
+PlanetXApiSDK/1.0.0
+StackViewLayout/0.1.0/0.1.3/0.1.4/0.1.5/0.1.6
+VisonPod/0.1.0
+XICommand/1.0.0/1.0.1
+YYText-swift/1.0/1.0.2/1.0.3/1.0.4/1.0.5/1.0.6
+hdbSDK/0.0.1/0.0.2
+return-assurance-sdk-sls/1.0.0

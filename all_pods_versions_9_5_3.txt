@@ -1,0 +1,16 @@
+AircallDesignSystem/0.1
+Bartinter/0.0.1/0.0.2/0.0.3/0.0.4/0.0.5
+Gofferwall/1.0.0/1.1.0/1.2.0
+IMFCore/0.1.0/0.1.1/0.1.2/1.0.0/1.0.10/1.0.11/1.0.13/1.0.14/1.0.15/1.0.5/1.0.6/1.0.7/1.0.9/1.1.1/1.2.0/1.2.1
+ISVImageScrollView/0.1.0/0.1.1/0.1.2/0.2.0/0.3.0
+JJProgressHUD/1.0.1
+JSAttributed/1.0.0
+LDLE4/0.1.1/0.1.2
+MobileVLCKit-prod/2.2.2/2.2.3/2.7.2/2.7.9
+MobilliumBuilders/1.0.0/1.1.0/1.1.1/1.1.2/1.2.0/1.3.0/1.4.0/1.4.2/1.4.3/1.5.0/1.6.0/1.6.1
+NBPullToRefresh/0.1.0
+ObjectiveDropbox/1.0.0/1.0.1/1.0.2/1.0.3/1.0.4/1.0.5
+Pods_SDK_Test/0.1.1/0.1.2
+SigmaticOC/1.0.0/1.0.1/1.1/1.2/1.3/1.3.1
+aidr-sdk-ios/1.0.0
+libminipng/0.0.5/0.5.6

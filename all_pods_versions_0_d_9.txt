@@ -1,0 +1,13 @@
+BFAppStoreEvaluate/0.0.1
+DiscoveryFabButton/0.1.1/0.1.2
+FYLogger/0.0.1/0.0.2/0.0.3/0.0.4/0.0.5/0.0.6/0.0.7/0.80/0.81/0.81.1/0.82
+KEmptyView/1.0.0/1.0.1/1.0.2
+KSVSShortVideoKit/1.0.0/1.1.0
+MobileNA_IOSSDK/1.1.2
+NumberScrollAnimatedView/0.1.0/0.1.1/0.2.0/0.2.1
+RadarSDKMotion/0.0.1/0.0.2/0.0.3/0.0.4/3.16.1-beta.4/3.16.1-beta.6/3.16.1-beta.7/3.17.0/3.18.0/3.18.1/3.18.1-beta.1/3.18.3/3.18.3-beta.1/3.18.3-beta.2/3.18.4-beta.1/3.18.4-beta.2/3.19.0-beta.1
+TAGKeyboard/0.1.0/0.1.2/0.1.3/0.1.4/2.0.0
+WCParsePush/1.0/1.1/1.2
+YYAds/0.2.0/1.0.1/1.0.2/1.0.3/1.0.4/1.0.6/1.1
+eloanLib/0.1.0/1.1.3/1.1.8/1.1.9/1.2.0
+viacep-ios/0.1.0

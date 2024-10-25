@@ -1,0 +1,15 @@
+AipOcrSdkSimulator/0.1.0
+CCUserDefaultsManager/1.0/1.1
+EXPLogger/1.0.1/1.0.2/1.0.3
+IconFontKit/2.0.0/2.0.1/2.1.0/2.1.1/2.1.2
+JGLibrary/0.1.0
+JXGradientNavigationBar/0.1.1/0.1.2
+LogerHelperFB/0.1.0/1.0.0
+MZCroppableView/0.1.0
+SampleUISwitch/0.0.3
+SwiftCentrifuge/0.0.1/0.0.2/0.0.3/0.0.4/0.0.5/0.0.6/0.1.0/0.2.0/0.2.1/0.2.2/0.3.0/0.3.1/0.4.0/0.4.1/0.4.2/0.4.3/0.4.4/0.4.5/0.4.6/0.5.0/0.5.1/0.5.2/0.5.3/0.5.4/0.5.5/0.6.0/0.6.1/0.7.0/0.7.1/0.7.2
+TMYouZanSDK/0.0.1/0.0.2/0.0.3/0.0.4
+TestAlertKit/0.1.0
+VPAlipaySDK/15.2.0/15.2.1/15.3.7/15.5.2
+WQDanmakuView/0.0.4/0.0.6/0.0.7
+XYMGuide/0.0.1

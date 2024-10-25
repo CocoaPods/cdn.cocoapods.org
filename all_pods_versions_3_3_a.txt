@@ -1,0 +1,10 @@
+EPSCommandCell/0.1/0.1.1/0.1.2
+EarlySalaryiOSSDK/0.0.1
+GFPinView/0.1.0/0.1.1
+LBPlaceholderTextView/0.0.1/0.0.4/1.0.0/1.1.0/1.1.1/1.1.2/1.1.3/1.1.4/1.1.5
+PlaceholdersCoreData/0.1.1/0.1.3
+PluggableApplicationDelegate/0.1.0/0.1.1/0.1.2/0.2.0
+RuiHaoProject/1.0.0/1.0.1/1.0.5/1.0.6
+RxAutoUpdater/0.1/0.1.1/0.1.2
+SodiumCocoaSwift/1.0.0
+XBTimer/0.0.2/0.0.3/0.0.4/0.0.5/0.0.6

@@ -1,0 +1,15 @@
+AFBlockAttributedLabel/0.1/0.2
+AgoraAIGCService/1.0.0/1.0.1/1.1.0-alpha-3/1.2.0/1.2.1/1.3.0-alpha-2/1.3.0-alpha-3
+InstatagSDK/0.1.0/1.0.0/1.0.1/1.0.2/1.0.3/1.0.4/1.0.7/1.0.8
+LKQRCodeExternal/0.0.1/1.0.1/1.0.6/1.1.1
+MTColorDistance/0.0.1/0.0.2/0.0.3
+MapboxChinaPlugin/0.0.1/0.0.2
+OWSDKModelKit/0.0.3/0.0.4/0.0.5/0.0.6
+PEAR-FileManager-iOS/0.1.0/0.1.1/1.0.0/1.0.1/1.1.0/1.2.0/1.3.0/1.3.1
+QQMTASDK/0.1.0/0.1.1/0.1.2
+ReusableViewKit/1.0.0
+SMFloatingLabelTextField/0.1.0/0.1.1/0.2.0/0.3.0/0.3.1
+UITextfieldWithSlideDownNote/0.1.0
+WrapperMFP/0.1.0
+ZQLNetWork/0.0.1/0.0.4/0.0.5/0.0.6/0.0.7
+weex-bluetooth/0.0.1/0.0.2/0.0.3

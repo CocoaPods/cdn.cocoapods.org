@@ -1,0 +1,12 @@
+ArchaicProtocols/0.1.1/0.1.2/0.1.3/0.1.4
+ChatBotSDKShiv/1.0/2.0
+DIYConduit/0.2.2/0.3.0
+FIleTest/1.0.0
+GfycatSwift/0.1.0
+JumioLegacyWrapper/1.0.0
+LYPlayer/0.1/0.2/0.3/0.3.5/0.4/0.4.1/0.4.2/0.5/0.5.1
+PLCrashReporter/1.10.0/1.10.1/1.10.2/1.11.0/1.11.1/1.11.2/1.2-rc2/1.2-rc4/1.2-rc5/1.2.0/1.4.0/1.5.0/1.5.1/1.6.0/1.7.0/1.7.1/1.7.2/1.8.0/1.8.1/1.9.0
+RFDelegateChain/1.0.0/2.0.0/2.1.0
+WWCollapsibleForm/0.1.0
+YLT_Crypto/0.0.1/0.0.2/0.0.3
+pubnub-api/3.3

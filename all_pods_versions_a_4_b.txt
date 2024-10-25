@@ -1,0 +1,17 @@
+AdyenAuthentication/1.0.0/1.1.0/1.1.1/1.1.2/1.1.3/2.0.0/3.0.0
+AequusUnityadsAdapter/0.0.6/0.1.0/0.1.1/1.0.0/1.0.1/1.0.2/1.1.0/1.2.0/1.2.1/1.3.0/1.4.0/1.4.7
+AlibabacloudCdn20180510/2.0.2/2.3.1/3.0.0
+ArrowPickerView/0.1.0/0.1.1
+CPDownLoaderPublic/1.0.0
+CocoaPodManager/1.0.0
+CyhRecord/0.0.1/0.0.2
+FSQCollectionViewAlignedLayout/1.0.1/1.0.2/1.1.0/1.1.1
+FormManager/0.0.1/0.0.3/0.0.4
+NTDownload/0.0.1/0.0.2/0.0.3/1.0.0
+PEAR-KeyboardNotification-iOS/0.0.1/0.0.2
+RouletteWheelCollectionViewLayout/0.0.1
+TXQuestionManager/0.0.1/0.0.2/0.0.3
+ToolTipNavigation/1.0.0/1.0.1/1.0.2/1.0.3
+YQChangeSkinBase/0.1.0
+iCloudDocumentSync/7.1/7.3/7.4.1
+ios-dpp/0.0.1

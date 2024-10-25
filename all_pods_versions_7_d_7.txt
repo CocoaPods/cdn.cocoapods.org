@@ -1,0 +1,16 @@
+BidmadAdFitAdapter-Dev/3.12.7.10.0/3.12.7.4/3.12.7.4.1/3.12.7.4.2/3.12.7.4.4/3.12.7.4.5/3.12.7.4.6/3.12.7.4.7/3.12.7.8.0/3.12.7.8.1/3.12.7.8.2
+CLThirdTest/0.0.1
+GDManager/0.1.2
+HZButton/0.0.1
+JMPrincessAnimate/0.0.1
+JRKeyChain/0.0.1/0.0.2
+NatVibration/0.0.1
+OBCycleView/1.0.0/1.0.1
+RxPager/0.1.0/0.2.0/0.3.0/0.3.1/1.0.0
+ScanSDK/0.1.0/0.1.1/0.1.2/0.1.3/0.1.4/0.1.5/0.1.6/0.1.7/0.1.8/0.1.9/0.2.0/0.2.1/0.2.2/0.2.3/0.2.4/0.2.5
+TBMAlertController/0.0.10/0.0.4
+TYHWaterMark/0.1.0/0.1.1/0.1.2/0.1.3
+TextCommon/1.0.0
+TrAnimate/1.0.0/1.0.1/1.0.2/1.0.3/1.0.4
+XGCreatSDK/1.1.0
+YWNewCycleScrollView/0.0.1/2.0.0/4.0.0

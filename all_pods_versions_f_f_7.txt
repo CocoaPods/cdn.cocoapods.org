@@ -1,0 +1,16 @@
+APEXCarousel/0.1.0
+BBProtocolBuffers/1.0.0
+BJNewsConnectionManager/0.0.1
+EPCSpinnerView/0.1.0/0.1.1/0.1.2/0.1.3/0.1.6
+FlexLayoutLibrary/0.1.0/0.1.2/0.1.3/0.1.4/0.1.5
+LGTool/0.1.0/0.1.1/0.1.2
+MFKit/0.1.0/0.2.0
+MXParallaxBackground/0.1.0/0.2.0/1.0.0
+OkDetectSDK/0.0.3.1/0.0.3.3/1.0.0/1.0.1
+SafeNSObject/0.0.1
+SatyaSecondLib/0.1.0
+SecureAccessBLE/3.13.2
+SquiggleApi/0.0.1/0.0.10/0.0.11/0.0.12/0.0.14/0.0.15/0.0.16/0.0.17/0.0.18/0.0.19/0.0.2/0.0.21/0.0.29/0.0.3/0.0.4/0.0.5/0.0.6/0.0.7/0.0.8/0.0.9
+UIImageDemo/1.3
+YMRequestSwift/0.1.1
+YuyanAuthSDK/2.0.0
