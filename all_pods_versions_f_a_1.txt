@@ -1,0 +1,14 @@
+CMDCoreDataStack/0.1.0
+Constren/1.0.0/1.0.1
+DemonPod/0.1.0
+ExamplePodMj/0.0.1
+IJKPlayerLib/2.1.0/2.1.3
+Model_A/0.0.1
+SJObserverHelper/1.0.0/1.0.1/1.0.2/1.0.3/1.0.4/1.0.4.1/1.0.5/1.0.5.1/1.0.6/1.0.7/1.0.8/1.0.9/1.1.0/1.1.1
+SwiftToast/0.1.0/1.0/1.0.1/1.1.1/1.1.3
+SwiftyOrientation/0.1.1/0.1.2
+UICurrencyField/0.0.1/0.0.2/0.0.3
+WBCommonTool/0.0.1
+WBNetSupport/0.0.1/0.0.2
+XJUIKit/0.0.1/0.0.5/0.0.6
+YHManager/1.0.0/1.1.0/1.2.0
