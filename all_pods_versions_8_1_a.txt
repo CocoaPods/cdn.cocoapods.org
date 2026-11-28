@@ -1,0 +1,14 @@
+AlibabacloudYicConsole20240118/1.0.0/1.0.1
+BaseProjectHelper/0.0.1/0.0.2/0.1.0
+DQAlertKit/0.1.0
+JYUtil_iOS/0.0.2/0.0.3/0.0.4/0.0.5
+MRSelectCountry/0.1.0/0.2.0/0.2.1/1.0/1.0.4
+Mraid/1.0.0/1.0.1/1.0.3/1.0.5
+MyDemoFramework/0.0.1/0.0.2/0.0.3/0.0.4
+SCReviewRatingKit/1.0.0
+StyleKit/1.0.0/1.0.1
+TMSensitiveCharSDK/0.0.1/0.0.2
+WLFKit/0.0.1/0.0.2
+WSRouter/0.1.0/0.1.1
+YaftaMobile/1.0.0
+pickerViewP/0.1.0
